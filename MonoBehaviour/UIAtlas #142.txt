@@ -1,0 +1,3758 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 3913432244979004174
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = -6683732110452879771
+	UISpriteData mSprites
+		Array Array
+		int size = 249
+			[0]
+			UISpriteData data
+				string name = "3D_Glasses_48676"
+				int x = 401
+				int y = 0
+				int width = 33
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 37
+				int paddingTop = 72
+				int paddingBottom = 25
+			[1]
+			UISpriteData data
+				string name = "Adv_head2_front"
+				int x = 0
+				int y = 179
+				int width = 65
+				int height = 61
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 27
+				int paddingRight = 28
+				int paddingTop = 34
+				int paddingBottom = 18
+			[2]
+			UISpriteData data
+				string name = "Alloy_moustache_48690"
+				int x = 303
+				int y = 94
+				int width = 23
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 39
+				int paddingTop = 90
+				int paddingBottom = 0
+			[3]
+			UISpriteData data
+				string name = "Angel_Spirit_face"
+				int x = 106
+				int y = 242
+				int width = 76
+				int height = 47
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 25
+				int paddingRight = 19
+				int paddingTop = 46
+				int paddingBottom = 20
+			[4]
+			UISpriteData data
+				string name = "Angry_Mouth_mouth"
+				int x = 238
+				int y = 3
+				int width = 13
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 60
+				int paddingRight = 47
+				int paddingTop = 88
+				int paddingBottom = 16
+			[5]
+			UISpriteData data
+				string name = "Antique_Pipe_face"
+				int x = 305
+				int y = 182
+				int width = 20
+				int height = 22
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 63
+				int paddingRight = 37
+				int paddingTop = 91
+				int paddingBottom = 0
+			[6]
+			UISpriteData data
+				string name = "Archangel_face_48688"
+				int x = 256
+				int y = 257
+				int width = 60
+				int height = 38
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 34
+				int paddingRight = 26
+				int paddingTop = 49
+				int paddingBottom = 26
+			[7]
+			UISpriteData data
+				string name = "arkSakura_face"
+				int x = 327
+				int y = 3
+				int width = 35
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 39
+				int paddingTop = 63
+				int paddingBottom = 18
+			[8]
+			UISpriteData data
+				string name = "Atroce_dead_48650"
+				int x = 365
+				int y = 3
+				int width = 35
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 38
+				int paddingTop = 76
+				int paddingBottom = 7
+			[9]
+			UISpriteData data
+				string name = "Award_face_48651"
+				int x = 891
+				int y = 427
+				int width = 25
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 42
+				int paddingTop = 82
+				int paddingBottom = 17
+			[10]
+			UISpriteData data
+				string name = "Award_mouth_48652"
+				int x = 649
+				int y = 467
+				int width = 58
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 22
+				int paddingTop = 87
+				int paddingBottom = 9
+			[11]
+			UISpriteData data
+				string name = "Balance_face_3000993"
+				int x = 186
+				int y = 69
+				int width = 62
+				int height = 41
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 29
+				int paddingRight = 29
+				int paddingTop = 41
+				int paddingBottom = 31
+			[12]
+			UISpriteData data
+				string name = "Barometer_face_3001272"
+				int x = 0
+				int y = 292
+				int width = 76
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 41
+				int paddingRight = 3
+				int paddingTop = 27
+				int paddingBottom = 13
+			[13]
+			UISpriteData data
+				string name = "Beach_glasses1_face"
+				int x = 811
+				int y = 427
+				int width = 38
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 37
+				int paddingTop = 74
+				int paddingBottom = 25
+			[14]
+			UISpriteData data
+				string name = "Beach_glasses2_face"
+				int x = 772
+				int y = 427
+				int width = 38
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 37
+				int paddingTop = 74
+				int paddingBottom = 25
+			[15]
+			UISpriteData data
+				string name = "Beach_glasses3_face"
+				int x = 594
+				int y = 465
+				int width = 54
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 27
+				int paddingTop = 70
+				int paddingBottom = 24
+			[16]
+			UISpriteData data
+				string name = "Beach_glasses4_face"
+				int x = 66
+				int y = 181
+				int width = 38
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 37
+				int paddingTop = 74
+				int paddingBottom = 25
+			[17]
+			UISpriteData data
+				string name = "Black_Glasses_face"
+				int x = 688
+				int y = 427
+				int width = 40
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 37
+				int paddingTop = 73
+				int paddingBottom = 26
+			[18]
+			UISpriteData data
+				string name = "Blackcat_mask_3000534"
+				int x = 488
+				int y = 205
+				int width = 40
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 35
+				int paddingTop = 65
+				int paddingBottom = 23
+			[19]
+			UISpriteData data
+				string name = "Blood_Mask_48644"
+				int x = 365
+				int y = 34
+				int width = 35
+				int height = 47
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 37
+				int paddingTop = 52
+				int paddingBottom = 14
+			[20]
+			UISpriteData data
+				string name = "Bloody_eyes_face"
+				int x = 539
+				int y = 318
+				int width = 32
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 38
+				int paddingTop = 68
+				int paddingBottom = 24
+			[21]
+			UISpriteData data
+				string name = "Blowpipe_mouth"
+				int x = 239
+				int y = 393
+				int width = 16
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 67
+				int paddingRight = 37
+				int paddingTop = 92
+				int paddingBottom = 3
+			[22]
+			UISpriteData data
+				string name = "Blush_face"
+				int x = 77
+				int y = 292
+				int width = 28
+				int height = 5
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 52
+				int paddingRight = 40
+				int paddingTop = 86
+				int paddingBottom = 22
+			[23]
+			UISpriteData data
+				string name = "Bogy_Mouth_face"
+				int x = 310
+				int y = 31
+				int width = 13
+				int height = 7
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 60
+				int paddingRight = 47
+				int paddingTop = 89
+				int paddingBottom = 17
+			[24]
+			UISpriteData data
+				string name = "Bonbonniere_mouth"
+				int x = 308
+				int y = 296
+				int width = 18
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 59
+				int paddingRight = 43
+				int paddingTop = 91
+				int paddingBottom = 1
+			[25]
+			UISpriteData data
+				string name = "Bone_Mouth_mouth"
+				int x = 78
+				int y = 75
+				int width = 27
+				int height = 15
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 40
+				int paddingTop = 87
+				int paddingBottom = 11
+			[26]
+			UISpriteData data
+				string name = "Branch_mouth_48700"
+				int x = 172
+				int y = 444
+				int width = 12
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 64
+				int paddingRight = 44
+				int paddingTop = 91
+				int paddingBottom = 2
+			[27]
+			UISpriteData data
+				string name = "Bubble_mouth_3000325"
+				int x = 172
+				int y = 64
+				int width = 13
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 56
+				int paddingRight = 51
+				int paddingTop = 92
+				int paddingBottom = 5
+			[28]
+			UISpriteData data
+				string name = "ButterfLove_face"
+				int x = 439
+				int y = 224
+				int width = 41
+				int height = 35
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 33
+				int paddingTop = 62
+				int paddingBottom = 16
+			[29]
+			UISpriteData data
+				string name = "Butterfly_face_3000383"
+				int x = 366
+				int y = 139
+				int width = 34
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 47
+				int paddingTop = 61
+				int paddingBottom = 20
+			[30]
+			UISpriteData data
+				string name = "Butterfly_Wing_Ear_face"
+				int x = 106
+				int y = 465
+				int width = 79
+				int height = 47
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 25
+				int paddingRight = 16
+				int paddingTop = 51
+				int paddingBottom = 15
+			[31]
+			UISpriteData data
+				string name = "Card_mouth_3001323"
+				int x = 168
+				int y = 144
+				int width = 17
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 45
+				int paddingTop = 92
+				int paddingBottom = 4
+			[32]
+			UISpriteData data
+				string name = "Carrot_nose_3000935"
+				int x = 439
+				int y = 190
+				int width = 43
+				int height = 33
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 30
+				int paddingTop = 57
+				int paddingBottom = 23
+			[33]
+			UISpriteData data
+				string name = "Cat_Ear_face"
+				int x = 539
+				int y = 80
+				int width = 33
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 38
+				int paddingTop = 73
+				int paddingBottom = 24
+			[34]
+			UISpriteData data
+				string name = "Cat_glasses_48711"
+				int x = 488
+				int y = 422
+				int width = 46
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 34
+				int paddingTop = 64
+				int paddingBottom = 23
+			[35]
+			UISpriteData data
+				string name = "Cat_seye_48709"
+				int x = 970
+				int y = 486
+				int width = 32
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 28
+			[36]
+			UISpriteData data
+				string name = "catgl_face_3000161"
+				int x = 177
+				int y = 197
+				int width = 6
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 74
+				int paddingRight = 40
+				int paddingTop = 85
+				int paddingBottom = 19
+			[37]
+			UISpriteData data
+				string name = "Celestial_Dark_Flame_face"
+				int x = 0
+				int y = 74
+				int width = 77
+				int height = 49
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 22
+				int paddingTop = 42
+				int paddingBottom = 22
+			[38]
+			UISpriteData data
+				string name = "Centimental_Flower_1_48682"
+				int x = 240
+				int y = 117
+				int width = 12
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 50
+				int paddingTop = 93
+				int paddingBottom = 7
+			[39]
+			UISpriteData data
+				string name = "Centimental_Flower_mouth"
+				int x = 173
+				int y = 82
+				int width = 12
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 50
+				int paddingTop = 93
+				int paddingBottom = 7
+			[40]
+			UISpriteData data
+				string name = "Centimental_Leaf_mouth"
+				int x = 177
+				int y = 207
+				int width = 6
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 53
+				int paddingTop = 91
+				int paddingBottom = 8
+			[41]
+			UISpriteData data
+				string name = "Centimental_Rose_face"
+				int x = 240
+				int y = 131
+				int width = 12
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 56
+				int paddingRight = 52
+				int paddingTop = 93
+				int paddingBottom = 7
+			[42]
+			UISpriteData data
+				string name = "Choco_Donut_In_Mouth_front"
+				int x = 238
+				int y = 13
+				int width = 17
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 59
+				int paddingRight = 44
+				int paddingTop = 90
+				int paddingBottom = 7
+			[43]
+			UISpriteData data
+				string name = "Cigar_mouth"
+				int x = 100
+				int y = 358
+				int width = 4
+				int height = 7
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 65
+				int paddingRight = 51
+				int paddingTop = 91
+				int paddingBottom = 15
+			[44]
+			UISpriteData data
+				string name = "Circle_face_3000247"
+				int x = 366
+				int y = 128
+				int width = 30
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 39
+				int paddingTop = 83
+				int paddingBottom = 20
+			[45]
+			UISpriteData data
+				string name = "clocktower_face_45813"
+				int x = 439
+				int y = 331
+				int width = 41
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 34
+				int paddingTop = 60
+				int paddingBottom = 17
+			[46]
+			UISpriteData data
+				string name = "Clover_mask_48693"
+				int x = 439
+				int y = 118
+				int width = 39
+				int height = 34
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 42
+				int paddingRight = 39
+				int paddingTop = 79
+				int paddingBottom = 0
+			[47]
+			UISpriteData data
+				string name = "ClownMask_2_48697"
+				int x = 71
+				int y = 138
+				int width = 31
+				int height = 40
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 40
+				int paddingTop = 59
+				int paddingBottom = 14
+			[48]
+			UISpriteData data
+				string name = "ClownMask_face"
+				int x = 256
+				int y = 205
+				int width = 42
+				int height = 51
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 44
+				int paddingRight = 34
+				int paddingTop = 52
+				int paddingBottom = 10
+			[49]
+			UISpriteData data
+				string name = "Conch_face_3000044"
+				int x = 186
+				int y = 111
+				int width = 53
+				int height = 48
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 29
+				int paddingRight = 38
+				int paddingTop = 50
+				int paddingBottom = 15
+			[50]
+			UISpriteData data
+				string name = "Conch_mouth_3000451"
+				int x = 375
+				int y = 422
+				int width = 25
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 52
+				int paddingTop = 90
+				int paddingBottom = 5
+			[51]
+			UISpriteData data
+				string name = "Cross _eyemask_3000048"
+				int x = 81
+				int y = 260
+				int width = 23
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 36
+				int paddingTop = 61
+				int paddingBottom = 21
+			[52]
+			UISpriteData data
+				string name = "Cross_face_48704"
+				int x = 256
+				int y = 342
+				int width = 49
+				int height = 47
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 32
+				int paddingTop = 47
+				int paddingBottom = 19
+			[53]
+			UISpriteData data
+				string name = "Crystal_mouth_3000033"
+				int x = 106
+				int y = 81
+				int width = 66
+				int height = 51
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 27
+				int paddingRight = 27
+				int paddingTop = 60
+				int paddingBottom = 2
+			[54]
+			UISpriteData data
+				string name = "Cubelegend_mouth"
+				int x = 256
+				int y = 39
+				int width = 58
+				int height = 34
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 35
+				int paddingRight = 27
+				int paddingTop = 79
+				int paddingBottom = 0
+			[55]
+			UISpriteData data
+				string name = "Curse_coin_48715"
+				int x = 654
+				int y = 442
+				int width = 37
+				int height = 22
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 38
+				int paddingTop = 78
+				int paddingBottom = 13
+			[56]
+			UISpriteData data
+				string name = "Curse_Mail_45861"
+				int x = 488
+				int y = 155
+				int width = 38
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 35
+				int paddingTop = 88
+				int paddingBottom = 0
+			[57]
+			UISpriteData data
+				string name = "Dagger_mouth_48716"
+				int x = 951
+				int y = 453
+				int width = 59
+				int height = 11
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 21
+				int paddingTop = 88
+				int paddingBottom = 14
+			[58]
+			UISpriteData data
+				string name = "DaimonMatch_mouth"
+				int x = 177
+				int y = 222
+				int width = 8
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 66
+				int paddingRight = 46
+				int paddingTop = 93
+				int paddingBottom = 1
+			[59]
+			UISpriteData data
+				string name = "Dark_Blindfold_face"
+				int x = 439
+				int y = 406
+				int width = 47
+				int height = 33
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 37
+				int paddingRight = 36
+				int paddingTop = 70
+				int paddingBottom = 10
+			[60]
+			UISpriteData data
+				string name = "DarkParty_Mask_face"
+				int x = 186
+				int y = 412
+				int width = 62
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 33
+				int paddingRight = 25
+				int paddingTop = 41
+				int paddingBottom = 20
+			[61]
+			UISpriteData data
+				string name = "Dental_mask_3000813"
+				int x = 539
+				int y = 44
+				int width = 29
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 52
+				int paddingRight = 39
+				int paddingTop = 83
+				int paddingBottom = 13
+			[62]
+			UISpriteData data
+				string name = "Diamond_rose_3000039"
+				int x = 488
+				int y = 231
+				int width = 45
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 41
+				int paddingRight = 34
+				int paddingTop = 88
+				int paddingBottom = 1
+			[63]
+			UISpriteData data
+				string name = "Dino_glasses_3000125"
+				int x = 917
+				int y = 429
+				int width = 29
+				int height = 12
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 52
+				int paddingRight = 39
+				int paddingTop = 75
+				int paddingBottom = 26
+			[64]
+			UISpriteData data
+				string name = "DirtyBeard_48672"
+				int x = 539
+				int y = 134
+				int width = 28
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 42
+				int paddingTop = 85
+				int paddingBottom = 8
+			[65]
+			UISpriteData data
+				string name = "Dizzy_face_48656"
+				int x = 776
+				int y = 446
+				int width = 43
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 41
+				int paddingRight = 36
+				int paddingTop = 71
+				int paddingBottom = 24
+			[66]
+			UISpriteData data
+				string name = "DoDoli_Mask_face"
+				int x = 186
+				int y = 356
+				int width = 52
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 28
+				int paddingTop = 44
+				int paddingBottom = 14
+			[67]
+			UISpriteData data
+				string name = "Dog_Tail_Grass_48675"
+				int x = 306
+				int y = 120
+				int width = 19
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 65
+				int paddingRight = 36
+				int paddingTop = 92
+				int paddingBottom = 3
+			[68]
+			UISpriteData data
+				string name = "DogMouth_mouth"
+				int x = 247
+				int y = 198
+				int width = 7
+				int height = 7
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 64
+				int paddingRight = 49
+				int paddingTop = 88
+				int paddingBottom = 18
+			[69]
+			UISpriteData data
+				string name = "Dragon_cloud_3001110"
+				int x = 0
+				int y = 457
+				int width = 105
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 6
+				int paddingTop = 58
+				int paddingBottom = 0
+			[70]
+			UISpriteData data
+				string name = "Dragon_flute_48653"
+				int x = 373
+				int y = 206
+				int width = 24
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 66
+				int paddingRight = 30
+				int paddingTop = 85
+				int paddingBottom = 12
+			[71]
+			UISpriteData data
+				string name = "DragonFace_face"
+				int x = 172
+				int y = 49
+				int width = 13
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 46
+				int paddingTop = 68
+				int paddingBottom = 31
+			[72]
+			UISpriteData data
+				string name = "Eagle_Eyes_face"
+				int x = 983
+				int y = 468
+				int width = 41
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 42
+				int paddingRight = 37
+				int paddingTop = 71
+				int paddingBottom = 26
+			[73]
+			UISpriteData data
+				string name = "Earmin_mouth_3000032"
+				int x = 168
+				int y = 162
+				int width = 14
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 74
+				int paddingRight = 32
+				int paddingTop = 69
+				int paddingBottom = 16
+			[74]
+			UISpriteData data
+				string name = "Eater_Eye_1_48681"
+				int x = 763
+				int y = 466
+				int width = 53
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 28
+				int paddingTop = 68
+				int paddingBottom = 27
+			[75]
+			UISpriteData data
+				string name = "EatNT_face"
+				int x = 488
+				int y = 366
+				int width = 42
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 33
+				int paddingTop = 67
+				int paddingBottom = 18
+			[76]
+			UISpriteData data
+				string name = "Elven_Ears_face"
+				int x = 0
+				int y = 3
+				int width = 73
+				int height = 22
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 25
+				int paddingRight = 22
+				int paddingTop = 66
+				int paddingBottom = 25
+			[77]
+			UISpriteData data
+				string name = "Emily_Face_mouth"
+				int x = 366
+				int y = 97
+				int width = 33
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 39
+				int paddingTop = 80
+				int paddingBottom = 4
+			[78]
+			UISpriteData data
+				string name = "Evil_Fire_face"
+				int x = 306
+				int y = 359
+				int width = 18
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 70
+				int paddingRight = 32
+				int paddingTop = 55
+				int paddingBottom = 28
+			[79]
+			UISpriteData data
+				string name = "Evil_mask_3032420"
+				int x = 186
+				int y = 30
+				int width = 65
+				int height = 38
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 29
+				int paddingRight = 26
+				int paddingTop = 55
+				int paddingBottom = 20
+			[80]
+			UISpriteData data
+				string name = "ExpensiveMonocle_48673"
+				int x = 78
+				int y = 91
+				int width = 25
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 52
+				int paddingTop = 73
+				int paddingBottom = 8
+			[81]
+			UISpriteData data
+				string name = "Eye_Bandage_face"
+				int x = 692
+				int y = 444
+				int width = 39
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 38
+				int paddingTop = 68
+				int paddingBottom = 25
+			[82]
+			UISpriteData data
+				string name = "Eye_Scar_face"
+				int x = 172
+				int y = 419
+				int width = 9
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 71
+				int paddingRight = 40
+				int paddingTop = 65
+				int paddingBottom = 24
+			[83]
+			UISpriteData data
+				string name = "Eyekey_3000051"
+				int x = 539
+				int y = 27
+				int width = 30
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 54
+				int paddingRight = 36
+				int paddingTop = 86
+				int paddingBottom = 11
+			[84]
+			UISpriteData data
+				string name = "Eyepatch_48698"
+				int x = 539
+				int y = 116
+				int width = 32
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 39
+				int paddingTop = 71
+				int paddingBottom = 25
+			[85]
+			UISpriteData data
+				string name = "Fiend_face_face"
+				int x = 439
+				int y = 54
+				int width = 39
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 35
+				int paddingTop = 64
+				int paddingBottom = 17
+			[86]
+			UISpriteData data
+				string name = "Fin_Helm_face"
+				int x = 256
+				int y = 390
+				int width = 64
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 30
+				int paddingRight = 26
+				int paddingTop = 53
+				int paddingBottom = 24
+			[87]
+			UISpriteData data
+				string name = "Fins_face_3000453"
+				int x = 327
+				int y = 472
+				int width = 73
+				int height = 40
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 27
+				int paddingRight = 20
+				int paddingTop = 57
+				int paddingBottom = 16
+			[88]
+			UISpriteData data
+				string name = "Fire_mask_3000241"
+				int x = 256
+				int y = 74
+				int width = 46
+				int height = 43
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 41
+				int paddingRight = 33
+				int paddingTop = 49
+				int paddingBottom = 21
+			[89]
+			UISpriteData data
+				string name = "Fire_mouth_48646"
+				int x = 256
+				int y = 427
+				int width = 60
+				int height = 39
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 12
+				int paddingTop = 74
+				int paddingBottom = 0
+			[90]
+			UISpriteData data
+				string name = "Firecracker_mouth_48691"
+				int x = 379
+				int y = 340
+				int width = 20
+				int height = 8
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 59
+				int paddingRight = 41
+				int paddingTop = 93
+				int paddingBottom = 12
+			[91]
+			UISpriteData data
+				string name = "Fish_In_Mouth_mouth"
+				int x = 81
+				int y = 241
+				int width = 22
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 57
+				int paddingRight = 41
+				int paddingTop = 91
+				int paddingBottom = 4
+			[92]
+			UISpriteData data
+				string name = "Flame_mouth_3000246"
+				int x = 539
+				int y = 97
+				int width = 30
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 40
+				int paddingTop = 81
+				int paddingBottom = 14
+			[93]
+			UISpriteData data
+				string name = "Floating_Elf_face"
+				int x = 106
+				int y = 191
+				int width = 70
+				int height = 50
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 25
+				int paddingRight = 25
+				int paddingTop = 36
+				int paddingBottom = 27
+			[94]
+			UISpriteData data
+				string name = "Floating_Elf_face_1000024"
+				int x = 0
+				int y = 241
+				int width = 80
+				int height = 50
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 23
+				int paddingRight = 17
+				int paddingTop = 36
+				int paddingBottom = 27
+			[95]
+			UISpriteData data
+				string name = "Flower_mouth_mouth"
+				int x = 306
+				int y = 342
+				int width = 18
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 53
+				int paddingTop = 85
+				int paddingBottom = 12
+			[96]
+			UISpriteData data
+				string name = "Flu_Mask_mouth"
+				int x = 539
+				int y = 440
+				int width = 35
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 13
+			[97]
+			UISpriteData data
+				string name = "Foxtail_mouth"
+				int x = 239
+				int y = 360
+				int width = 15
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 52
+				int paddingRight = 53
+				int paddingTop = 93
+				int paddingBottom = 4
+			[98]
+			UISpriteData data
+				string name = "Future_Glass_face"
+				int x = 81
+				int y = 37
+				int width = 18
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 68
+				int paddingRight = 34
+				int paddingTop = 54
+				int paddingBottom = 23
+			[99]
+			UISpriteData data
+				string name = "G_Major_face"
+				int x = 327
+				int y = 362
+				int width = 53
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 20
+				int paddingTop = 55
+				int paddingBottom = 22
+			[100]
+			UISpriteData data
+				string name = "Gangster_Patch_face"
+				int x = 488
+				int y = 18
+				int width = 45
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 37
+				int paddingTop = 71
+				int paddingBottom = 23
+			[101]
+			UISpriteData data
+				string name = "Gas_Mask_face"
+				int x = 327
+				int y = 325
+				int width = 51
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 31
+				int paddingTop = 68
+				int paddingBottom = 9
+			[102]
+			UISpriteData data
+				string name = "Gem_scarf_3001013"
+				int x = 488
+				int y = 38
+				int width = 36
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 38
+				int paddingTop = 88
+				int paddingBottom = 1
+			[103]
+			UISpriteData data
+				string name = "GhostMask_W_face"
+				int x = 186
+				int y = 289
+				int width = 43
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 34
+				int paddingTop = 35
+				int paddingBottom = 12
+			[104]
+			UISpriteData data
+				string name = "GlassesPoring_48594"
+				int x = 539
+				int y = 465
+				int width = 54
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 27
+				int paddingTop = 70
+				int paddingBottom = 24
+			[105]
+			UISpriteData data
+				string name = "GlassesPoring_face"
+				int x = 708
+				int y = 466
+				int width = 54
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 37
+				int paddingRight = 29
+				int paddingTop = 70
+				int paddingBottom = 25
+			[106]
+			UISpriteData data
+				string name = "Goblin_Lord_Mask_face"
+				int x = 401
+				int y = 241
+				int width = 37
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 55
+				int paddingBottom = 14
+			[107]
+			UISpriteData data
+				string name = "Goblin_Mask1_face"
+				int x = 401
+				int y = 467
+				int width = 37
+				int height = 45
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 54
+				int paddingBottom = 14
+			[108]
+			UISpriteData data
+				string name = "Goblin_Mask2_face"
+				int x = 401
+				int y = 331
+				int width = 37
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 55
+				int paddingBottom = 14
+			[109]
+			UISpriteData data
+				string name = "Goblin_Mask3_face"
+				int x = 401
+				int y = 421
+				int width = 37
+				int height = 45
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 54
+				int paddingBottom = 14
+			[110]
+			UISpriteData data
+				string name = "Goblin_Mask5_face"
+				int x = 401
+				int y = 376
+				int width = 37
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 55
+				int paddingBottom = 14
+			[111]
+			UISpriteData data
+				string name = "Goblin_Mask6_face"
+				int x = 401
+				int y = 286
+				int width = 37
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 55
+				int paddingBottom = 14
+			[112]
+			UISpriteData data
+				string name = "Goblin_Mask7_face"
+				int x = 66
+				int y = 196
+				int width = 39
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 35
+				int paddingTop = 55
+				int paddingBottom = 14
+			[113]
+			UISpriteData data
+				string name = "Goblin_Mask8_face"
+				int x = 327
+				int y = 36
+				int width = 37
+				int height = 45
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 54
+				int paddingBottom = 14
+			[114]
+			UISpriteData data
+				string name = "Gogglefive_48707"
+				int x = 614
+				int y = 443
+				int width = 39
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 36
+				int paddingTop = 69
+				int paddingBottom = 23
+			[115]
+			UISpriteData data
+				string name = "Gold_Spoon_48674"
+				int x = 172
+				int y = 31
+				int width = 10
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 64
+				int paddingRight = 46
+				int paddingTop = 91
+				int paddingBottom = 5
+			[116]
+			UISpriteData data
+				string name = "GoldenMind_face"
+				int x = 934
+				int y = 496
+				int width = 68
+				int height = 16
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 28
+				int paddingRight = 24
+				int paddingTop = 61
+				int paddingBottom = 36
+			[117]
+			UISpriteData data
+				string name = "Goldenrose_mouth_3000681"
+				int x = 539
+				int y = 62
+				int width = 31
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 36
+				int paddingTop = 84
+				int paddingBottom = 12
+			[118]
+			UISpriteData data
+				string name = "Goldwire_glass_3001175"
+				int x = 439
+				int y = 478
+				int width = 48
+				int height = 34
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 33
+				int paddingTop = 69
+				int paddingBottom = 10
+			[119]
+			UISpriteData data
+				string name = "Granpa_Beard_mouth"
+				int x = 71
+				int y = 125
+				int width = 34
+				int height = 12
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 37
+				int paddingTop = 84
+				int paddingBottom = 17
+			[120]
+			UISpriteData data
+				string name = "Gudeta_mouth_48640"
+				int x = 366
+				int y = 82
+				int width = 31
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 39
+				int paddingTop = 85
+				int paddingBottom = 14
+			[121]
+			UISpriteData data
+				string name = "Halloween_face1_48664"
+				int x = 859
+				int y = 443
+				int width = 36
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 38
+				int paddingTop = 69
+				int paddingBottom = 23
+			[122]
+			UISpriteData data
+				string name = "Halloween_face2_48665"
+				int x = 891
+				int y = 466
+				int width = 47
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 41
+				int paddingRight = 32
+				int paddingTop = 71
+				int paddingBottom = 24
+			[123]
+			UISpriteData data
+				string name = "Halloween_mouth1_48666"
+				int x = 81
+				int y = 27
+				int width = 19
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 59
+				int paddingRight = 42
+				int paddingTop = 87
+				int paddingBottom = 17
+			[124]
+			UISpriteData data
+				string name = "Halloween_mouth2_48667"
+				int x = 379
+				int y = 334
+				int width = 20
+				int height = 5
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 56
+				int paddingRight = 44
+				int paddingTop = 89
+				int paddingBottom = 19
+			[125]
+			UISpriteData data
+				string name = "Han_mask_48643"
+				int x = 439
+				int y = 153
+				int width = 39
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 36
+				int paddingTop = 57
+				int paddingBottom = 20
+			[126]
+			UISpriteData data
+				string name = "Heart_glasses_face"
+				int x = 650
+				int y = 424
+				int width = 37
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 35
+				int paddingTop = 73
+				int paddingBottom = 23
+			[127]
+			UISpriteData data
+				string name = "Heart_mask_3001016"
+				int x = 77
+				int y = 328
+				int width = 22
+				int height = 37
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 68
+				int paddingRight = 30
+				int paddingTop = 50
+				int paddingBottom = 26
+			[128]
+			UISpriteData data
+				string name = "HeartFace_face"
+				int x = 877
+				int y = 485
+				int width = 24
+				int height = 5
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 55
+				int paddingRight = 41
+				int paddingTop = 86
+				int paddingBottom = 22
+			[129]
+			UISpriteData data
+				string name = "Helm_Of_Darkness_face"
+				int x = 327
+				int y = 206
+				int width = 45
+				int height = 38
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 32
+				int paddingTop = 58
+				int paddingBottom = 17
+			[130]
+			UISpriteData data
+				string name = "Hockey_Mask_face"
+				int x = 401
+				int y = 113
+				int width = 36
+				int height = 40
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 37
+				int paddingTop = 61
+				int paddingBottom = 12
+			[131]
+			UISpriteData data
+				string name = "Ice_rose_48687"
+				int x = 488
+				int y = 0
+				int width = 40
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 29
+				int paddingTop = 85
+				int paddingBottom = 11
+			[132]
+			UISpriteData data
+				string name = "IceBrand_face"
+				int x = 173
+				int y = 96
+				int width = 12
+				int height = 15
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 47
+				int paddingTop = 63
+				int paddingBottom = 35
+			[133]
+			UISpriteData data
+				string name = "Icedragon_face_48713"
+				int x = 106
+				int y = 407
+				int width = 65
+				int height = 57
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 26
+				int paddingRight = 29
+				int paddingTop = 45
+				int paddingBottom = 11
+			[134]
+			UISpriteData data
+				string name = "IceHeart_mouth"
+				int x = 539
+				int y = 485
+				int width = 52
+				int height = 27
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 30
+				int paddingTop = 86
+				int paddingBottom = 0
+			[135]
+			UISpriteData data
+				string name = "icey_face_48585"
+				int x = 161
+				int y = 328
+				int width = 22
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 60
+				int paddingTop = 64
+				int paddingBottom = 20
+			[136]
+			UISpriteData data
+				string name = "Icrystal_face_48686"
+				int x = 186
+				int y = 247
+				int width = 68
+				int height = 41
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 31
+				int paddingRight = 21
+				int paddingTop = 57
+				int paddingBottom = 15
+			[137]
+			UISpriteData data
+				string name = "Idol_mask_3000026"
+				int x = 370
+				int y = 294
+				int width = 30
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 50
+				int paddingTop = 67
+				int paddingBottom = 16
+			[138]
+			UISpriteData data
+				string name = "Infinite_mouth_48658"
+				int x = 439
+				int y = 23
+				int width = 41
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 36
+				int paddingTop = 83
+				int paddingBottom = 0
+			[139]
+			UISpriteData data
+				string name = "Injured_Eyepath_face"
+				int x = 612
+				int y = 424
+				int width = 37
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 38
+				int paddingTop = 73
+				int paddingBottom = 23
+			[140]
+			UISpriteData data
+				string name = "Invitation_card_3031176"
+				int x = 539
+				int y = 176
+				int width = 29
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 57
+				int paddingRight = 34
+				int paddingTop = 92
+				int paddingBottom = 1
+			[141]
+			UISpriteData data
+				string name = "Iron_Cane_48527"
+				int x = 539
+				int y = 0
+				int width = 27
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 40
+				int paddingTop = 84
+				int paddingBottom = 16
+			[142]
+			UISpriteData data
+				string name = "Iron_Cane_mouth"
+				int x = 488
+				int y = 104
+				int width = 39
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 38
+				int paddingTop = 78
+				int paddingBottom = 12
+			[143]
+			UISpriteData data
+				string name = "JakkHead_48584"
+				int x = 939
+				int y = 465
+				int width = 43
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 32
+				int paddingTop = 68
+				int paddingBottom = 26
+			[144]
+			UISpriteData data
+				string name = "Jungle_mouth_3000514"
+				int x = 379
+				int y = 349
+				int width = 20
+				int height = 12
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 54
+				int paddingRight = 46
+				int paddingTop = 89
+				int paddingBottom = 12
+			[145]
+			UISpriteData data
+				string name = "Kafra_face_face"
+				int x = 375
+				int y = 403
+				int width = 22
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 44
+				int paddingRight = 54
+				int paddingTop = 73
+				int paddingBottom = 22
+			[146]
+			UISpriteData data
+				string name = "Katana_mouth_3001324"
+				int x = 575
+				int y = 418
+				int width = 36
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 34
+				int paddingTop = 87
+				int paddingBottom = 3
+			[147]
+			UISpriteData data
+				string name = "Kissfish_mouth_3000043"
+				int x = 230
+				int y = 302
+				int width = 23
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 78
+				int paddingRight = 19
+				int paddingTop = 71
+				int paddingBottom = 16
+			[148]
+			UISpriteData data
+				string name = "Kissme_face_3031284"
+				int x = 168
+				int y = 134
+				int width = 15
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 67
+				int paddingRight = 38
+				int paddingTop = 83
+				int paddingBottom = 21
+			[149]
+			UISpriteData data
+				string name = "Koi_face_48694"
+				int x = 539
+				int y = 364
+				int width = 34
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 37
+				int paddingTop = 66
+				int paddingBottom = 23
+			[150]
+			UISpriteData data
+				string name = "Koi_mouth_48695"
+				int x = 488
+				int y = 256
+				int width = 39
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 34
+				int paddingRight = 47
+				int paddingTop = 85
+				int paddingBottom = 0
+			[151]
+			UISpriteData data
+				string name = "Kumamon_face_3000706"
+				int x = 370
+				int y = 281
+				int width = 29
+				int height = 12
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 41
+				int paddingTop = 83
+				int paddingBottom = 18
+			[152]
+			UISpriteData data
+				string name = "Kumamon_mouth_3000721"
+				int x = 401
+				int y = 76
+				int width = 36
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 44
+				int paddingRight = 40
+				int paddingTop = 77
+				int paddingBottom = 0
+			[153]
+			UISpriteData data
+				string name = "Laser_glasses_48660"
+				int x = 850
+				int y = 428
+				int width = 40
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 34
+				int paddingTop = 73
+				int paddingBottom = 27
+			[154]
+			UISpriteData data
+				string name = "leaf_clover_mouth_48710"
+				int x = 539
+				int y = 14
+				int width = 31
+				int height = 12
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 38
+				int paddingTop = 85
+				int paddingBottom = 16
+			[155]
+			UISpriteData data
+				string name = "Leaf_companion_3001116"
+				int x = 161
+				int y = 298
+				int width = 22
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 66
+				int paddingRight = 32
+				int paddingTop = 77
+				int paddingBottom = 7
+			[156]
+			UISpriteData data
+				string name = "LiarNose_face"
+				int x = 240
+				int y = 145
+				int width = 14
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 62
+				int paddingRight = 44
+				int paddingTop = 83
+				int paddingBottom = 16
+			[157]
+			UISpriteData data
+				string name = "Lightning_arrow_3000815"
+				int x = 934
+				int y = 486
+				int width = 35
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 38
+				int paddingTop = 89
+				int paddingBottom = 15
+			[158]
+			UISpriteData data
+				string name = "Lily_face_48701"
+				int x = 327
+				int y = 441
+				int width = 65
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 31
+				int paddingRight = 24
+				int paddingTop = 57
+				int paddingBottom = 26
+			[159]
+			UISpriteData data
+				string name = "Loki_Whispers_face"
+				int x = 0
+				int y = 124
+				int width = 70
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 25
+				int paddingRight = 25
+				int paddingTop = 29
+				int paddingBottom = 30
+			[160]
+			UISpriteData data
+				string name = "Long_Tongue_face"
+				int x = 173
+				int y = 112
+				int width = 10
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 64
+				int paddingRight = 46
+				int paddingTop = 91
+				int paddingBottom = 2
+			[161]
+			UISpriteData data
+				string name = "Louver_mirror_48654"
+				int x = 439
+				int y = 2
+				int width = 45
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 44
+				int paddingRight = 31
+				int paddingTop = 70
+				int paddingBottom = 23
+			[162]
+			UISpriteData data
+				string name = "LoveGlasses_face"
+				int x = 592
+				int y = 489
+				int width = 60
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 36
+				int paddingRight = 24
+				int paddingTop = 66
+				int paddingBottom = 24
+			[163]
+			UISpriteData data
+				string name = "Magic_earrings_3001010"
+				int x = 106
+				int y = 358
+				int width = 76
+				int height = 48
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 23
+				int paddingTop = 64
+				int paddingBottom = 1
+			[164]
+			UISpriteData data
+				string name = "Marchosias_Arrow_48566"
+				int x = 896
+				int y = 451
+				int width = 54
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 34
+				int paddingRight = 32
+				int paddingTop = 87
+				int paddingBottom = 13
+			[165]
+			UISpriteData data
+				string name = "Mask_Halloween_48645"
+				int x = 401
+				int y = 154
+				int width = 36
+				int height = 41
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 36
+				int paddingTop = 59
+				int paddingBottom = 13
+			[166]
+			UISpriteData data
+				string name = "Masquerade_face"
+				int x = 488
+				int y = 341
+				int width = 49
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 41
+				int paddingRight = 30
+				int paddingTop = 65
+				int paddingBottom = 24
+			[167]
+			UISpriteData data
+				string name = "Maya_dead_48649"
+				int x = 439
+				int y = 297
+				int width = 44
+				int height = 33
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 44
+				int paddingRight = 32
+				int paddingTop = 56
+				int paddingBottom = 24
+			[168]
+			UISpriteData data
+				string name = "Metal_face_48661"
+				int x = 488
+				int y = 285
+				int width = 43
+				int height = 27
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 34
+				int paddingTop = 72
+				int paddingBottom = 14
+			[169]
+			UISpriteData data
+				string name = "MGDarmyEyepiece_face"
+				int x = 877
+				int y = 491
+				int width = 56
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 34
+				int paddingRight = 30
+				int paddingTop = 70
+				int paddingBottom = 22
+			[170]
+			UISpriteData data
+				string name = "MGDarmyMask_mouth"
+				int x = 401
+				int y = 17
+				int width = 36
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 38
+				int paddingTop = 74
+				int paddingBottom = 13
+			[171]
+			UISpriteData data
+				string name = "Money_glasses_48689"
+				int x = 539
+				int y = 237
+				int width = 34
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 37
+				int paddingTop = 70
+				int paddingBottom = 25
+			[172]
+			UISpriteData data
+				string name = "MoneyEye_face"
+				int x = 539
+				int y = 256
+				int width = 33
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 38
+				int paddingTop = 70
+				int paddingBottom = 24
+			[173]
+			UISpriteData data
+				string name = "MoneyEye_face "
+				int x = 539
+				int y = 297
+				int width = 33
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 38
+				int paddingTop = 70
+				int paddingBottom = 23
+			[174]
+			UISpriteData data
+				string name = "Morocc_mask_48678"
+				int x = 488
+				int y = 313
+				int width = 43
+				int height = 27
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 34
+				int paddingTop = 67
+				int paddingBottom = 19
+			[175]
+			UISpriteData data
+				string name = "Mr_Poison_Mask_front"
+				int x = 106
+				int y = 30
+				int width = 65
+				int height = 50
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 12
+				int paddingTop = 41
+				int paddingBottom = 22
+			[176]
+			UISpriteData data
+				string name = "Mr_Scream_face"
+				int x = 327
+				int y = 127
+				int width = 38
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 35
+				int paddingTop = 55
+				int paddingBottom = 14
+			[177]
+			UISpriteData data
+				string name = "Mr_Smile_face"
+				int x = 65
+				int y = 410
+				int width = 38
+				int height = 46
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 34
+				int paddingTop = 54
+				int paddingBottom = 13
+			[178]
+			UISpriteData data
+				string name = "Navidad_face_48671"
+				int x = 106
+				int y = 2
+				int width = 72
+				int height = 27
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 26
+				int paddingRight = 22
+				int paddingTop = 65
+				int paddingBottom = 21
+			[179]
+			UISpriteData data
+				string name = "Navidad_mouth_47141"
+				int x = 299
+				int y = 209
+				int width = 26
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 36
+				int paddingTop = 92
+				int paddingBottom = 0
+			[180]
+			UISpriteData data
+				string name = "Night_vision_48692"
+				int x = 327
+				int y = 245
+				int width = 50
+				int height = 35
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 32
+				int paddingTop = 62
+				int paddingBottom = 16
+			[181]
+			UISpriteData data
+				string name = "Nightmare_face_48714"
+				int x = 106
+				int y = 290
+				int width = 54
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 36
+				int paddingRight = 30
+				int paddingTop = 33
+				int paddingBottom = 13
+			[182]
+			UISpriteData data
+				string name = "Nut_On_Head_face"
+				int x = 817
+				int y = 471
+				int width = 73
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 28
+				int paddingRight = 19
+				int paddingTop = 59
+				int paddingBottom = 41
+			[183]
+			UISpriteData data
+				string name = "Observer_face"
+				int x = 74
+				int y = 4
+				int width = 31
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 62
+				int paddingRight = 27
+				int paddingTop = 67
+				int paddingBottom = 25
+			[184]
+			UISpriteData data
+				string name = "Obsidian_face_3000463"
+				int x = 315
+				int y = 59
+				int width = 11
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 48
+				int paddingTop = 66
+				int paddingBottom = 33
+			[185]
+			UISpriteData data
+				string name = "Octopus_heart_3001271"
+				int x = 439
+				int y = 440
+				int width = 43
+				int height = 37
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 26
+				int paddingTop = 76
+				int paddingBottom = 0
+			[186]
+			UISpriteData data
+				string name = "One_Eyed_Glass_face"
+				int x = 539
+				int y = 155
+				int width = 29
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 52
+				int paddingTop = 71
+				int paddingBottom = 22
+			[187]
+			UISpriteData data
+				string name = "Ornament_face_3001325"
+				int x = 539
+				int y = 197
+				int width = 31
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 39
+				int paddingTop = 72
+				int paddingBottom = 22
+			[188]
+			UISpriteData data
+				string name = "Owl_mask_3000234"
+				int x = 256
+				int y = 296
+				int width = 51
+				int height = 45
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 29
+				int paddingTop = 60
+				int paddingBottom = 8
+			[189]
+			UISpriteData data
+				string name = "Oxygen_Mask_face"
+				int x = 488
+				int y = 449
+				int width = 39
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 38
+				int paddingTop = 73
+				int paddingBottom = 9
+			[190]
+			UISpriteData data
+				string name = "Pacifier_mouth"
+				int x = 310
+				int y = 22
+				int width = 11
+				int height = 8
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 62
+				int paddingRight = 47
+				int paddingTop = 90
+				int paddingBottom = 15
+			[191]
+			UISpriteData data
+				string name = "Pierrot_Nose_face"
+				int x = 315
+				int y = 47
+				int width = 10
+				int height = 11
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 62
+				int paddingRight = 48
+				int paddingTop = 82
+				int paddingBottom = 20
+			[192]
+			UISpriteData data
+				string name = "Pipe_mouth_48718"
+				int x = 439
+				int y = 87
+				int width = 42
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 44
+				int paddingRight = 34
+				int paddingTop = 83
+				int paddingBottom = 0
+			[193]
+			UISpriteData data
+				string name = "Portrait_frame_3001276"
+				int x = 65
+				int y = 367
+				int width = 39
+				int height = 42
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 31
+				int paddingTop = 58
+				int paddingBottom = 13
+			[194]
+			UISpriteData data
+				string name = "Power_Of_Thor_face"
+				int x = 256
+				int y = 467
+				int width = 70
+				int height = 45
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 25
+				int paddingRight = 25
+				int paddingTop = 37
+				int paddingBottom = 31
+			[195]
+			UISpriteData data
+				string name = "Priest_mask_3001113"
+				int x = 106
+				int y = 133
+				int width = 61
+				int height = 57
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 32
+				int paddingRight = 27
+				int paddingTop = 42
+				int paddingBottom = 14
+			[196]
+			UISpriteData data
+				string name = "PringlesBeard_mouth"
+				int x = 161
+				int y = 290
+				int width = 21
+				int height = 7
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 56
+				int paddingRight = 43
+				int paddingTop = 87
+				int paddingBottom = 19
+			[197]
+			UISpriteData data
+				string name = "PurifyMask_48677"
+				int x = 186
+				int y = 206
+				int width = 68
+				int height = 40
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 26
+				int paddingRight = 26
+				int paddingTop = 63
+				int paddingBottom = 10
+			[198]
+			UISpriteData data
+				string name = "Purple_lenses_3000466"
+				int x = 539
+				int y = 217
+				int width = 32
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 38
+				int paddingTop = 74
+				int paddingBottom = 20
+			[199]
+			UISpriteData data
+				string name = "Pylos_face_48708"
+				int x = 488
+				int y = 481
+				int width = 50
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 42
+				int paddingRight = 28
+				int paddingTop = 70
+				int paddingBottom = 12
+			[200]
+			UISpriteData data
+				string name = "Rachel_man_Head_48717"
+				int x = 488
+				int y = 128
+				int width = 35
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 37
+				int paddingTop = 65
+				int paddingBottom = 22
+			[201]
+			UISpriteData data
+				string name = "Rainbow_ear_3000324"
+				int x = 186
+				int y = 465
+				int width = 69
+				int height = 47
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 30
+				int paddingRight = 21
+				int paddingTop = 48
+				int paddingBottom = 18
+			[202]
+			UISpriteData data
+				string name = "Rainbow_face_3000326"
+				int x = 896
+				int y = 442
+				int width = 27
+				int height = 8
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 40
+				int paddingTop = 83
+				int paddingBottom = 22
+			[203]
+			UISpriteData data
+				string name = "RealLove_mouth"
+				int x = 488
+				int y = 85
+				int width = 49
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 42
+				int paddingRight = 29
+				int paddingTop = 92
+				int paddingBottom = 3
+			[204]
+			UISpriteData data
+				string name = "ReDevil_sEye_48712"
+				int x = 710
+				int y = 488
+				int width = 55
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 37
+				int paddingRight = 28
+				int paddingTop = 64
+				int paddingBottom = 25
+			[205]
+			UISpriteData data
+				string name = "Rose_face_3000384"
+				int x = 308
+				int y = 318
+				int width = 18
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 67
+				int paddingRight = 35
+				int paddingTop = 67
+				int paddingBottom = 23
+			[206]
+			UISpriteData data
+				string name = "RoseMask_mouth"
+				int x = 327
+				int y = 281
+				int width = 42
+				int height = 43
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 28
+				int paddingTop = 70
+				int paddingBottom = 0
+			[207]
+			UISpriteData data
+				string name = "Sacred_Masque_face"
+				int x = 186
+				int y = 160
+				int width = 60
+				int height = 45
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 13
+				int paddingTop = 68
+				int paddingBottom = 0
+			[208]
+			UISpriteData data
+				string name = "Sakura_glass_3001383"
+				int x = 488
+				int y = 395
+				int width = 46
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 34
+				int paddingTop = 72
+				int paddingBottom = 15
+			[209]
+			UISpriteData data
+				string name = "SakuraMonth_mouth"
+				int x = 239
+				int y = 377
+				int width = 16
+				int height = 15
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 43
+				int paddingTop = 87
+				int paddingBottom = 11
+			[210]
+			UISpriteData data
+				string name = "Samurai_mask_3001384"
+				int x = 0
+				int y = 366
+				int width = 64
+				int height = 90
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 32
+				int paddingRight = 24
+				int paddingTop = 14
+				int paddingBottom = 9
+			[211]
+			UISpriteData data
+				string name = "Seashell3_mouth"
+				int x = 653
+				int y = 488
+				int width = 56
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 26
+				int paddingTop = 89
+				int paddingBottom = 0
+			[212]
+			UISpriteData data
+				string name = "seren_face_face"
+				int x = 299
+				int y = 231
+				int width = 26
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 65
+				int paddingRight = 29
+				int paddingTop = 64
+				int paddingBottom = 24
+			[213]
+			UISpriteData data
+				string name = "Smoking_Pipe_mouth"
+				int x = 317
+				int y = 453
+				int width = 9
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 53
+				int paddingTop = 91
+				int paddingBottom = 9
+			[214]
+			UISpriteData data
+				string name = "Snack_mouth_48655"
+				int x = 373
+				int y = 223
+				int width = 26
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 56
+				int paddingRight = 38
+				int paddingTop = 92
+				int paddingBottom = 0
+			[215]
+			UISpriteData data
+				string name = "Specialre_face_48706"
+				int x = 401
+				int y = 196
+				int width = 36
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 36
+				int paddingTop = 68
+				int paddingBottom = 1
+			[216]
+			UISpriteData data
+				string name = "SpecialWhisper_face"
+				int x = 327
+				int y = 399
+				int width = 47
+				int height = 41
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 34
+				int paddingTop = 61
+				int paddingBottom = 11
+			[217]
+			UISpriteData data
+				string name = "Spiked_Scarf_mouth"
+				int x = 401
+				int y = 44
+				int width = 36
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 46
+				int paddingRight = 38
+				int paddingTop = 79
+				int paddingBottom = 3
+			[218]
+			UISpriteData data
+				string name = "Starfish_face"
+				int x = 820
+				int y = 444
+				int width = 38
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 34
+				int paddingTop = 69
+				int paddingBottom = 24
+			[219]
+			UISpriteData data
+				string name = "Starlight_face_48702"
+				int x = 77
+				int y = 298
+				int width = 28
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 52
+				int paddingRight = 40
+				int paddingTop = 61
+				int paddingBottom = 23
+			[220]
+			UISpriteData data
+				string name = "Starmoon_3000530"
+				int x = 186
+				int y = 1
+				int width = 51
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 37
+				int paddingRight = 32
+				int paddingTop = 70
+				int paddingBottom = 15
+			[221]
+			UISpriteData data
+				string name = "Starry_face_48657"
+				int x = 539
+				int y = 340
+				int width = 33
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 38
+				int paddingTop = 64
+				int paddingBottom = 26
+			[222]
+			UISpriteData data
+				string name = "Steel_mask_48705"
+				int x = 488
+				int y = 181
+				int width = 42
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 42
+				int paddingRight = 36
+				int paddingTop = 76
+				int paddingBottom = 14
+			[223]
+			UISpriteData data
+				string name = "SunGlasses_face"
+				int x = 732
+				int y = 446
+				int width = 43
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 37
+				int paddingTop = 74
+				int paddingBottom = 21
+			[224]
+			UISpriteData data
+				string name = "Sunglasses_Man3_face"
+				int x = 729
+				int y = 428
+				int width = 42
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 42
+				int paddingRight = 36
+				int paddingTop = 75
+				int paddingBottom = 25
+			[225]
+			UISpriteData data
+				string name = "SweetPoring_mouth"
+				int x = 306
+				int y = 139
+				int width = 20
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 58
+				int paddingRight = 42
+				int paddingTop = 91
+				int paddingBottom = 1
+			[226]
+			UISpriteData data
+				string name = "Swim_Googles_48703"
+				int x = 824
+				int y = 487
+				int width = 52
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 39
+				int paddingRight = 29
+				int paddingTop = 64
+				int paddingBottom = 24
+			[227]
+			UISpriteData data
+				string name = "Swim_Googles_face"
+				int x = 766
+				int y = 489
+				int width = 57
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 34
+				int paddingRight = 29
+				int paddingTop = 67
+				int paddingBottom = 23
+			[228]
+			UISpriteData data
+				string name = "Tarot_mouth_3000464"
+				int x = 381
+				int y = 377
+				int width = 18
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 59
+				int paddingRight = 43
+				int paddingTop = 92
+				int paddingBottom = 0
+			[229]
+			UISpriteData data
+				string name = "Thin_yarn_mouth"
+				int x = 256
+				int y = 118
+				int width = 49
+				int height = 42
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 31
+				int paddingTop = 71
+				int paddingBottom = 0
+			[230]
+			UISpriteData data
+				string name = "Thin_yarn_mouth_1000026"
+				int x = 256
+				int y = 161
+				int width = 48
+				int height = 43
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 40
+				int paddingRight = 32
+				int paddingTop = 70
+				int paddingBottom = 0
+			[231]
+			UISpriteData data
+				string name = "TimeInsight_face"
+				int x = 327
+				int y = 172
+				int width = 51
+				int height = 33
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 38
+				int paddingRight = 31
+				int paddingTop = 63
+				int paddingBottom = 17
+			[232]
+			UISpriteData data
+				string name = "Tongue_Mask_face"
+				int x = 327
+				int y = 82
+				int width = 38
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 34
+				int paddingTop = 57
+				int paddingBottom = 12
+			[233]
+			UISpriteData data
+				string name = "Transparent_ear_3000035"
+				int x = 0
+				int y = 26
+				int width = 80
+				int height = 47
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 23
+				int paddingRight = 17
+				int paddingTop = 48
+				int paddingBottom = 18
+			[234]
+			UISpriteData data
+				string name = "Valhalla_ThunderEye_eye"
+				int x = 230
+				int y = 291
+				int width = 25
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 54
+				int paddingRight = 41
+				int paddingTop = 76
+				int paddingBottom = 27
+			[235]
+			UISpriteData data
+				string name = "Valhalla_ThunderTexture_face"
+				int x = 305
+				int y = 162
+				int width = 21
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 57
+				int paddingRight = 42
+				int paddingTop = 63
+				int paddingBottom = 31
+			[236]
+			UISpriteData data
+				string name = "Valhalla_ThunderTexture_R_face"
+				int x = 303
+				int y = 74
+				int width = 21
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 57
+				int paddingRight = 42
+				int paddingTop = 63
+				int paddingBottom = 31
+			[237]
+			UISpriteData data
+				string name = "VampireTooth_mouth"
+				int x = 240
+				int y = 112
+				int width = 12
+				int height = 4
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 47
+				int paddingTop = 92
+				int paddingBottom = 17
+			[238]
+			UISpriteData data
+				string name = "Veil_face_2_48696"
+				int x = 539
+				int y = 276
+				int width = 32
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 48
+				int paddingRight = 40
+				int paddingTop = 82
+				int paddingBottom = 11
+			[239]
+			UISpriteData data
+				string name = "Veil_face_48659"
+				int x = 539
+				int y = 414
+				int width = 33
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 40
+				int paddingTop = 76
+				int paddingBottom = 12
+			[240]
+			UISpriteData data
+				string name = "W_knight_mask_3000623"
+				int x = 256
+				int y = 1
+				int width = 53
+				int height = 37
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 36
+				int paddingRight = 31
+				int paddingTop = 56
+				int paddingBottom = 20
+			[241]
+			UISpriteData data
+				string name = "W_knight_mouth_3000626"
+				int x = 947
+				int y = 427
+				int width = 24
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 55
+				int paddingRight = 41
+				int paddingTop = 86
+				int paddingBottom = 13
+			[242]
+			UISpriteData data
+				string name = "Wafuu_face_48668"
+				int x = 539
+				int y = 389
+				int width = 34
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 47
+				int paddingRight = 39
+				int paddingTop = 67
+				int paddingBottom = 22
+			[243]
+			UISpriteData data
+				string name = "Wafuu_mouth_48669"
+				int x = 575
+				int y = 442
+				int width = 38
+				int height = 22
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 32
+				int paddingTop = 89
+				int paddingBottom = 2
+			[244]
+			UISpriteData data
+				string name = "Warrior_face_48684"
+				int x = 230
+				int y = 329
+				int width = 25
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 42
+				int paddingTop = 68
+				int paddingBottom = 19
+			[245]
+			UISpriteData data
+				string name = "Warrior_mouth_48685"
+				int x = 172
+				int y = 409
+				int width = 13
+				int height = 9
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 61
+				int paddingRight = 46
+				int paddingTop = 91
+				int paddingBottom = 13
+			[246]
+			UISpriteData data
+				string name = "Welding_Mask_face"
+				int x = 439
+				int y = 368
+				int width = 41
+				int height = 37
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 45
+				int paddingRight = 34
+				int paddingTop = 65
+				int paddingBottom = 11
+			[247]
+			UISpriteData data
+				string name = "YukiSakura_mouth"
+				int x = 488
+				int y = 63
+				int width = 42
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 43
+				int paddingRight = 35
+				int paddingTop = 87
+				int paddingBottom = 5
+			[248]
+			UISpriteData data
+				string name = "yuno_face_45816"
+				int x = 439
+				int y = 260
+				int width = 40
+				int height = 36
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 49
+				int paddingRight = 31
+				int paddingTop = 76
+				int paddingBottom = 1
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

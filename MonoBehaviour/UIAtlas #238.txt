@@ -1,0 +1,68 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = -8776186397481824177
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = -4287321942853634565
+	UISpriteData mSprites
+		Array Array
+		int size = 3
+			[0]
+			UISpriteData data
+				string name = "homebbig"
+				int x = 0
+				int y = 169
+				int width = 190
+				int height = 173
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[1]
+			UISpriteData data
+				string name = "homeLarge"
+				int x = 196
+				int y = 358
+				int width = 200
+				int height = 154
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[2]
+			UISpriteData data
+				string name = "homeMedium"
+				int x = 0
+				int y = 343
+				int width = 195
+				int height = 169
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

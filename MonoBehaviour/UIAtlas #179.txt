@@ -1,0 +1,383 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 2102342517911108837
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = 3767128535014012395
+	UISpriteData mSprites
+		Array Array
+		int size = 24
+			[0]
+			UISpriteData data
+				string name = "Doram_Eye_41_1"
+				int x = 27
+				int y = 103
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[1]
+			UISpriteData data
+				string name = "Doram_Eye_41_2"
+				int x = 60
+				int y = 103
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[2]
+			UISpriteData data
+				string name = "Doram_Eye_41_3"
+				int x = 93
+				int y = 103
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[3]
+			UISpriteData data
+				string name = "Doram_Eye_42_1"
+				int x = 27
+				int y = 92
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[4]
+			UISpriteData data
+				string name = "Doram_Eye_42_2"
+				int x = 60
+				int y = 92
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[5]
+			UISpriteData data
+				string name = "Doram_Eye_42_3"
+				int x = 93
+				int y = 92
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[6]
+			UISpriteData data
+				string name = "Doram_Eye_43_1"
+				int x = 27
+				int y = 81
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[7]
+			UISpriteData data
+				string name = "Doram_Eye_43_2"
+				int x = 60
+				int y = 81
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[8]
+			UISpriteData data
+				string name = "Doram_Eye_43_3"
+				int x = 93
+				int y = 81
+				int width = 32
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 37
+				int paddingTop = 76
+				int paddingBottom = 27
+			[9]
+			UISpriteData data
+				string name = "Eye_23"
+				int x = 32
+				int y = 115
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[10]
+			UISpriteData data
+				string name = "Eye_28"
+				int x = 27
+				int y = 70
+				int width = 30
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 27
+			[11]
+			UISpriteData data
+				string name = "Eye_29"
+				int x = 27
+				int y = 59
+				int width = 30
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 27
+			[12]
+			UISpriteData data
+				string name = "Eye_30"
+				int x = 27
+				int y = 48
+				int width = 30
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 27
+			[13]
+			UISpriteData data
+				string name = "Eye_31"
+				int x = 27
+				int y = 37
+				int width = 30
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 51
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 27
+			[14]
+			UISpriteData data
+				string name = "Eye_33"
+				int x = 59
+				int y = 115
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[15]
+			UISpriteData data
+				string name = "Eye_34"
+				int x = 86
+				int y = 115
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[16]
+			UISpriteData data
+				string name = "Eye_35"
+				int x = 0
+				int y = 100
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[17]
+			UISpriteData data
+				string name = "Eye_36"
+				int x = 0
+				int y = 86
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[18]
+			UISpriteData data
+				string name = "Eye_38"
+				int x = 0
+				int y = 72
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[19]
+			UISpriteData data
+				string name = "Eye_39"
+				int x = 0
+				int y = 58
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[20]
+			UISpriteData data
+				string name = "Eye_40"
+				int x = 27
+				int y = 26
+				int width = 28
+				int height = 10
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 39
+				int paddingTop = 76
+				int paddingBottom = 27
+			[21]
+			UISpriteData data
+				string name = "Eye_F_32"
+				int x = 0
+				int y = 44
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+			[22]
+			UISpriteData data
+				string name = "Eye_LALALA_eye"
+				int x = 0
+				int y = 114
+				int width = 31
+				int height = 14
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 50
+				int paddingRight = 39
+				int paddingTop = 74
+				int paddingBottom = 25
+			[23]
+			UISpriteData data
+				string name = "Eye_M_32"
+				int x = 0
+				int y = 30
+				int width = 26
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 53
+				int paddingRight = 41
+				int paddingTop = 74
+				int paddingBottom = 26
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

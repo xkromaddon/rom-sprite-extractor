@@ -1,0 +1,1493 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 2329350885127199291
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = 207048753458527387
+	UISpriteData mSprites
+		Array Array
+		int size = 98
+			[0]
+			UISpriteData data
+				string name = "Acolyte_M"
+				int x = 425
+				int y = 101
+				int width = 63
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 10
+				int paddingTop = 9
+				int paddingBottom = 4
+			[1]
+			UISpriteData data
+				string name = "Doram_Eye_41_1"
+				int x = 820
+				int y = 400
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[2]
+			UISpriteData data
+				string name = "Doram_Eye_41_2"
+				int x = 896
+				int y = 459
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[3]
+			UISpriteData data
+				string name = "Doram_Eye_41_3"
+				int x = 952
+				int y = 400
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[4]
+			UISpriteData data
+				string name = "Doram_Eye_42_1"
+				int x = 864
+				int y = 400
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[5]
+			UISpriteData data
+				string name = "Doram_Eye_42_2"
+				int x = 626
+				int y = 337
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[6]
+			UISpriteData data
+				string name = "Doram_Eye_42_3"
+				int x = 908
+				int y = 400
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[7]
+			UISpriteData data
+				string name = "Doram_Eye_43_1"
+				int x = 776
+				int y = 400
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[8]
+			UISpriteData data
+				string name = "Doram_Eye_43_2"
+				int x = 732
+				int y = 400
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[9]
+			UISpriteData data
+				string name = "Doram_Eye_43_3"
+				int x = 940
+				int y = 459
+				int width = 43
+				int height = 53
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 19
+				int paddingTop = 14
+				int paddingBottom = 13
+			[10]
+			UISpriteData data
+				string name = "Eye_21"
+				int x = 709
+				int y = 336
+				int width = 38
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[11]
+			UISpriteData data
+				string name = "Eye_22"
+				int x = 865
+				int y = 336
+				int width = 38
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[12]
+			UISpriteData data
+				string name = "Eye_23"
+				int x = 978
+				int y = 338
+				int width = 36
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 22
+				int paddingTop = 15
+				int paddingBottom = 13
+			[13]
+			UISpriteData data
+				string name = "Eye_24"
+				int x = 826
+				int y = 336
+				int width = 38
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[14]
+			UISpriteData data
+				string name = "Eye_25"
+				int x = 787
+				int y = 336
+				int width = 38
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[15]
+			UISpriteData data
+				string name = "Eye_26"
+				int x = 855
+				int y = 455
+				int width = 40
+				int height = 57
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 20
+				int paddingTop = 12
+				int paddingBottom = 11
+			[16]
+			UISpriteData data
+				string name = "Eye_27"
+				int x = 670
+				int y = 335
+				int width = 38
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 21
+				int paddingTop = 13
+				int paddingBottom = 12
+			[17]
+			UISpriteData data
+				string name = "Eye_28"
+				int x = 626
+				int y = 7
+				int width = 39
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[18]
+			UISpriteData data
+				string name = "Eye_29"
+				int x = 626
+				int y = 62
+				int width = 39
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[19]
+			UISpriteData data
+				string name = "Eye_30"
+				int x = 626
+				int y = 117
+				int width = 39
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[20]
+			UISpriteData data
+				string name = "Eye_31"
+				int x = 626
+				int y = 172
+				int width = 39
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[21]
+			UISpriteData data
+				string name = "Eye_33"
+				int x = 670
+				int y = 282
+				int width = 36
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 22
+				int paddingTop = 14
+				int paddingBottom = 14
+			[22]
+			UISpriteData data
+				string name = "Eye_34"
+				int x = 670
+				int y = 229
+				int width = 36
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 22
+				int paddingTop = 14
+				int paddingBottom = 14
+			[23]
+			UISpriteData data
+				string name = "Eye_35"
+				int x = 941
+				int y = 338
+				int width = 36
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 22
+				int paddingTop = 14
+				int paddingBottom = 14
+			[24]
+			UISpriteData data
+				string name = "Eye_36"
+				int x = 904
+				int y = 338
+				int width = 36
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 22
+				int paddingTop = 14
+				int paddingBottom = 14
+			[25]
+			UISpriteData data
+				string name = "Eye_38"
+				int x = 811
+				int y = 454
+				int width = 43
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 17
+				int paddingTop = 10
+				int paddingBottom = 12
+			[26]
+			UISpriteData data
+				string name = "Eye_39"
+				int x = 767
+				int y = 454
+				int width = 43
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 17
+				int paddingTop = 10
+				int paddingBottom = 12
+			[27]
+			UISpriteData data
+				string name = "Eye_D"
+				int x = 300
+				int y = 3
+				int width = 47
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 16
+				int paddingRight = 17
+				int paddingTop = 14
+				int paddingBottom = 12
+			[28]
+			UISpriteData data
+				string name = "Eye_E"
+				int x = 748
+				int y = 336
+				int width = 38
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[29]
+			UISpriteData data
+				string name = "Eye_F_32"
+				int x = 626
+				int y = 227
+				int width = 39
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[30]
+			UISpriteData data
+				string name = "Eye_M_32"
+				int x = 626
+				int y = 282
+				int width = 39
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 21
+				int paddingTop = 14
+				int paddingBottom = 12
+			[31]
+			UISpriteData data
+				string name = "hair_1"
+				int x = 78
+				int y = 66
+				int width = 66
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 7
+				int paddingTop = 4
+				int paddingBottom = 3
+			[32]
+			UISpriteData data
+				string name = "Hair1_Cat_Female"
+				int x = 425
+				int y = 241
+				int width = 63
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 6
+				int paddingTop = 5
+				int paddingBottom = 7
+			[33]
+			UISpriteData data
+				string name = "Hair1_Cat_Male"
+				int x = 499
+				int y = 324
+				int width = 63
+				int height = 63
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 8
+				int paddingTop = 7
+				int paddingBottom = 10
+			[34]
+			UISpriteData data
+				string name = "Hair1_Male"
+				int x = 0
+				int y = 358
+				int width = 67
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 6
+				int paddingTop = 0
+				int paddingBottom = 0
+			[35]
+			UISpriteData data
+				string name = "Hair10_Female"
+				int x = 567
+				int y = 170
+				int width = 46
+				int height = 78
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 16
+				int paddingTop = 2
+				int paddingBottom = 0
+			[36]
+			UISpriteData data
+				string name = "Hair12_Male"
+				int x = 78
+				int y = 365
+				int width = 67
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 6
+				int paddingTop = 4
+				int paddingBottom = 3
+			[37]
+			UISpriteData data
+				string name = "Hair15_Male"
+				int x = 148
+				int y = 442
+				int width = 71
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 4
+				int paddingTop = 6
+				int paddingBottom = 4
+			[38]
+			UISpriteData data
+				string name = "Hair2_Cat_Female"
+				int x = 78
+				int y = 439
+				int width = 69
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 4
+				int paddingTop = 5
+				int paddingBottom = 2
+			[39]
+			UISpriteData data
+				string name = "Hair2_Cat_Male"
+				int x = 567
+				int y = 37
+				int width = 57
+				int height = 59
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 11
+				int paddingTop = 11
+				int paddingBottom = 10
+			[40]
+			UISpriteData data
+				string name = "Hair2_Female"
+				int x = 358
+				int y = 156
+				int width = 64
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 8
+				int paddingTop = 8
+				int paddingBottom = 2
+			[41]
+			UISpriteData data
+				string name = "Hair2_Male"
+				int x = 358
+				int y = 13
+				int width = 62
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 10
+				int paddingTop = 6
+				int paddingBottom = 3
+			[42]
+			UISpriteData data
+				string name = "Hair23_Female"
+				int x = 300
+				int y = 277
+				int width = 56
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 12
+				int paddingTop = 4
+				int paddingBottom = 0
+			[43]
+			UISpriteData data
+				string name = "Hair23_Male"
+				int x = 0
+				int y = 201
+				int width = 66
+				int height = 79
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 7
+				int paddingTop = 1
+				int paddingBottom = 0
+			[44]
+			UISpriteData data
+				string name = "Hair24_Female"
+				int x = 148
+				int y = 86
+				int width = 68
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 6
+				int paddingTop = 9
+				int paddingBottom = 3
+			[45]
+			UISpriteData data
+				string name = "Hair24_Male"
+				int x = 0
+				int y = 281
+				int width = 70
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 1
+			[46]
+			UISpriteData data
+				string name = "Hair25_Female"
+				int x = 0
+				int y = 124
+				int width = 68
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 7
+				int paddingTop = 4
+				int paddingBottom = 0
+			[47]
+			UISpriteData data
+				string name = "Hair25_Male"
+				int x = 220
+				int y = 185
+				int width = 62
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 5
+				int paddingBottom = 1
+			[48]
+			UISpriteData data
+				string name = "Hair26_Female"
+				int x = 0
+				int y = 439
+				int width = 77
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 3
+				int paddingTop = 7
+				int paddingBottom = 0
+			[49]
+			UISpriteData data
+				string name = "Hair26_Male"
+				int x = 300
+				int y = 354
+				int width = 57
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 11
+				int paddingTop = 3
+				int paddingBottom = 0
+			[50]
+			UISpriteData data
+				string name = "Hair27_Female"
+				int x = 567
+				int y = 389
+				int width = 58
+				int height = 64
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 11
+				int paddingTop = 10
+				int paddingBottom = 6
+			[51]
+			UISpriteData data
+				string name = "Hair27_Male"
+				int x = 300
+				int y = 204
+				int width = 56
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 13
+				int paddingTop = 6
+				int paddingBottom = 2
+			[52]
+			UISpriteData data
+				string name = "Hair28_Female"
+				int x = 78
+				int y = 2
+				int width = 66
+				int height = 63
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 9
+				int paddingTop = 10
+				int paddingBottom = 7
+			[53]
+			UISpriteData data
+				string name = "Hair28_Male"
+				int x = 567
+				int y = 323
+				int width = 57
+				int height = 65
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 11
+				int paddingTop = 6
+				int paddingBottom = 9
+			[54]
+			UISpriteData data
+				string name = "Hair3_Cat_Female"
+				int x = 638
+				int y = 458
+				int width = 66
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 6
+				int paddingTop = 15
+				int paddingBottom = 11
+			[55]
+			UISpriteData data
+				string name = "Hair3_Cat_Male"
+				int x = 358
+				int y = 297
+				int width = 61
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 9
+				int paddingTop = 4
+				int paddingBottom = 2
+			[56]
+			UISpriteData data
+				string name = "Hair3_Female"
+				int x = 567
+				int y = 97
+				int width = 49
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 17
+				int paddingRight = 14
+				int paddingTop = 6
+				int paddingBottom = 2
+			[57]
+			UISpriteData data
+				string name = "Hair31_Female"
+				int x = 148
+				int y = 228
+				int width = 66
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 6
+				int paddingTop = 6
+				int paddingBottom = 2
+			[58]
+			UISpriteData data
+				string name = "Hair31_Male"
+				int x = 220
+				int y = 260
+				int width = 74
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 12
+				int paddingBottom = 6
+			[59]
+			UISpriteData data
+				string name = "Hair4_Cat_Female"
+				int x = 220
+				int y = 110
+				int width = 62
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 7
+				int paddingTop = 2
+				int paddingBottom = 4
+			[60]
+			UISpriteData data
+				string name = "Hair4_Cat_Male"
+				int x = 220
+				int y = 384
+				int width = 72
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 3
+				int paddingTop = 7
+				int paddingBottom = 7
+			[61]
+			UISpriteData data
+				string name = "Hair4_Female"
+				int x = 499
+				int y = 60
+				int width = 54
+				int height = 69
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 13
+				int paddingRight = 13
+				int paddingTop = 8
+				int paddingBottom = 3
+			[62]
+			UISpriteData data
+				string name = "Hair4_Male"
+				int x = 148
+				int y = 155
+				int width = 65
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 9
+				int paddingTop = 6
+				int paddingBottom = 2
+			[63]
+			UISpriteData data
+				string name = "Hair41_Male"
+				int x = 358
+				int y = 443
+				int width = 66
+				int height = 69
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 12
+				int paddingTop = 4
+				int paddingBottom = 7
+			[64]
+			UISpriteData data
+				string name = "Hair42_Male"
+				int x = 425
+				int y = 30
+				int width = 60
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 11
+				int paddingTop = 5
+				int paddingBottom = 5
+			[65]
+			UISpriteData data
+				string name = "Hair5_Cat_Female"
+				int x = 220
+				int y = 323
+				int width = 78
+				int height = 60
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 10
+				int paddingBottom = 10
+			[66]
+			UISpriteData data
+				string name = "Hair5_Cat_Male"
+				int x = 499
+				int y = 1
+				int width = 62
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 7
+				int paddingTop = 11
+				int paddingBottom = 11
+			[67]
+			UISpriteData data
+				string name = "Hair5_Female"
+				int x = 148
+				int y = 13
+				int width = 64
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 6
+				int paddingTop = 6
+				int paddingBottom = 2
+			[68]
+			UISpriteData data
+				string name = "Hair5_Male"
+				int x = 0
+				int y = 44
+				int width = 64
+				int height = 79
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 8
+				int paddingTop = 1
+				int paddingBottom = 0
+			[69]
+			UISpriteData data
+				string name = "Hair51_Female"
+				int x = 148
+				int y = 372
+				int width = 70
+				int height = 69
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 7
+				int paddingBottom = 4
+			[70]
+			UISpriteData data
+				string name = "Hair52_Female"
+				int x = 358
+				int y = 372
+				int width = 65
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 9
+				int paddingTop = 4
+				int paddingBottom = 6
+			[71]
+			UISpriteData data
+				string name = "Hair6_Cat_Female"
+				int x = 78
+				int y = 214
+				int width = 65
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 7
+				int paddingTop = 2
+				int paddingBottom = 3
+			[72]
+			UISpriteData data
+				string name = "Hair6_Cat_Male"
+				int x = 499
+				int y = 204
+				int width = 67
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 8
+				int paddingTop = 11
+				int paddingBottom = 11
+			[73]
+			UISpriteData data
+				string name = "Hair6_Female"
+				int x = 300
+				int y = 131
+				int width = 56
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 15
+				int paddingRight = 9
+				int paddingTop = 7
+				int paddingBottom = 1
+			[74]
+			UISpriteData data
+				string name = "Hair6_Male"
+				int x = 358
+				int y = 227
+				int width = 65
+				int height = 69
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 6
+				int paddingTop = 7
+				int paddingBottom = 4
+			[75]
+			UISpriteData data
+				string name = "Hair61_Male"
+				int x = 220
+				int y = 33
+				int width = 60
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 9
+				int paddingTop = 1
+				int paddingBottom = 3
+			[76]
+			UISpriteData data
+				string name = "Hair62_Male"
+				int x = 425
+				int y = 310
+				int width = 63
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 9
+				int paddingTop = 8
+				int paddingBottom = 4
+			[77]
+			UISpriteData data
+				string name = "Hair63_Male"
+				int x = 78
+				int y = 140
+				int width = 66
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 8
+				int paddingTop = 2
+				int paddingBottom = 5
+			[78]
+			UISpriteData data
+				string name = "Hair64_Female"
+				int x = 567
+				int y = 454
+				int width = 70
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 10
+				int paddingBottom = 12
+			[79]
+			UISpriteData data
+				string name = "Hair64_Male"
+				int x = 626
+				int y = 391
+				int width = 53
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 15
+				int paddingRight = 12
+				int paddingTop = 9
+				int paddingBottom = 9
+			[80]
+			UISpriteData data
+				string name = "Hair65_Female"
+				int x = 499
+				int y = 130
+				int width = 52
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 16
+				int paddingTop = 5
+				int paddingBottom = 2
+			[81]
+			UISpriteData data
+				string name = "Hair65_Male"
+				int x = 358
+				int y = 85
+				int width = 64
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 8
+				int paddingTop = 5
+				int paddingBottom = 5
+			[82]
+			UISpriteData data
+				string name = "Hair66_Female"
+				int x = 499
+				int y = 450
+				int width = 67
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 6
+				int paddingTop = 8
+				int paddingBottom = 10
+			[83]
+			UISpriteData data
+				string name = "Hair66_Male"
+				int x = 680
+				int y = 391
+				int width = 51
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 16
+				int paddingRight = 13
+				int paddingTop = 9
+				int paddingBottom = 9
+			[84]
+			UISpriteData data
+				string name = "Hair69_Female"
+				int x = 499
+				int y = 388
+				int width = 66
+				int height = 61
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 7
+				int paddingTop = 8
+				int paddingBottom = 11
+			[85]
+			UISpriteData data
+				string name = "Hair7_Female"
+				int x = 425
+				int y = 379
+				int width = 62
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 8
+				int paddingBottom = 2
+			[86]
+			UISpriteData data
+				string name = "Hair7_Male"
+				int x = 78
+				int y = 290
+				int width = 66
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 7
+				int paddingTop = 6
+				int paddingBottom = 0
+			[87]
+			UISpriteData data
+				string name = "Hair70_Female"
+				int x = 425
+				int y = 450
+				int width = 73
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 4
+				int paddingTop = 10
+				int paddingBottom = 8
+			[88]
+			UISpriteData data
+				string name = "Hair71_Female"
+				int x = 220
+				int y = 451
+				int width = 79
+				int height = 61
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 8
+				int paddingBottom = 11
+			[89]
+			UISpriteData data
+				string name = "Hair8_Female"
+				int x = 148
+				int y = 301
+				int width = 68
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 5
+				int paddingTop = 7
+				int paddingBottom = 3
+			[90]
+			UISpriteData data
+				string name = "Hair8_Male"
+				int x = 300
+				int y = 432
+				int width = 57
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 12
+				int paddingTop = 0
+				int paddingBottom = 0
+			[91]
+			UISpriteData data
+				string name = "Hair9_Female"
+				int x = 300
+				int y = 58
+				int width = 56
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 12
+				int paddingTop = 6
+				int paddingBottom = 2
+			[92]
+			UISpriteData data
+				string name = "Hair996_Cat_Female"
+				int x = 499
+				int y = 263
+				int width = 65
+				int height = 60
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 5
+				int paddingTop = 12
+				int paddingBottom = 8
+			[93]
+			UISpriteData data
+				string name = "Hair997_Cat_Male"
+				int x = 705
+				int y = 454
+				int width = 61
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 8
+				int paddingTop = 13
+				int paddingBottom = 9
+			[94]
+			UISpriteData data
+				string name = "Knight_F"
+				int x = 567
+				int y = 249
+				int width = 50
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 15
+				int paddingRight = 15
+				int paddingTop = 6
+				int paddingBottom = 1
+			[95]
+			UISpriteData data
+				string name = "Serpent_Eye"
+				int x = 984
+				int y = 457
+				int width = 40
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 20
+				int paddingTop = 13
+				int paddingBottom = 12
+			[96]
+			UISpriteData data
+				string name = "Swordman_F"
+				int x = 425
+				int y = 169
+				int width = 60
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 8
+				int paddingTop = 7
+				int paddingBottom = 2
+			[97]
+			UISpriteData data
+				string name = "Valhalla_ThunderEye"
+				int x = 670
+				int y = 176
+				int width = 36
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 22
+				int paddingTop = 14
+				int paddingBottom = 14
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

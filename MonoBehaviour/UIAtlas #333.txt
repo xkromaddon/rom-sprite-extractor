@@ -1,0 +1,113 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 365146916878195784
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = -2455476111514695435
+	UISpriteData mSprites
+		Array Array
+		int size = 6
+			[0]
+			UISpriteData data
+				string name = "1"
+				int x = 66
+				int y = 6
+				int width = 50
+				int height = 50
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 8
+				int paddingTop = 7
+				int paddingBottom = 7
+			[1]
+			UISpriteData data
+				string name = "2"
+				int x = 117
+				int y = 7
+				int width = 54
+				int height = 49
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 7
+				int paddingBottom = 8
+			[2]
+			UISpriteData data
+				string name = "3"
+				int x = 128
+				int y = 64
+				int width = 65
+				int height = 64
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[3]
+			UISpriteData data
+				string name = "4"
+				int x = 79
+				int y = 57
+				int width = 48
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 2
+				int paddingBottom = 2
+			[4]
+			UISpriteData data
+				string name = "5"
+				int x = 0
+				int y = 2
+				int width = 65
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[5]
+			UISpriteData data
+				string name = "6"
+				int x = 0
+				int y = 70
+				int width = 78
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 12
+				int paddingBottom = 10
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

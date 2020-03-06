@@ -1,0 +1,2468 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 5972806682945517909
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = 4167335707279109041
+	UISpriteData mSprites
+		Array Array
+		int size = 163
+			[0]
+			UISpriteData data
+				string name = "Cloudy_Doll"
+				int x = 502
+				int y = 383
+				int width = 55
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 15
+				int paddingTop = 5
+				int paddingBottom = 5
+			[1]
+			UISpriteData data
+				string name = "General_action"
+				int x = 226
+				int y = 70
+				int width = 66
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 7
+				int paddingTop = 7
+				int paddingBottom = 7
+			[2]
+			UISpriteData data
+				string name = "Green_Plant"
+				int x = 925
+				int y = 722
+				int width = 76
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 12
+				int paddingBottom = 0
+			[3]
+			UISpriteData data
+				string name = "item_1000017"
+				int x = 295
+				int y = 566
+				int width = 69
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 4
+				int paddingTop = 3
+				int paddingBottom = 3
+			[4]
+			UISpriteData data
+				string name = "item_1000050"
+				int x = 80
+				int y = 75
+				int width = 66
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 6
+				int paddingTop = 0
+				int paddingBottom = 0
+			[5]
+			UISpriteData data
+				string name = "item_1000051"
+				int x = 619
+				int y = 458
+				int width = 59
+				int height = 65
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 9
+				int paddingTop = 7
+				int paddingBottom = 8
+			[6]
+			UISpriteData data
+				string name = "item_1000061"
+				int x = 0
+				int y = 302
+				int width = 78
+				int height = 78
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 2
+			[7]
+			UISpriteData data
+				string name = "item_1000063"
+				int x = 295
+				int y = 641
+				int width = 70
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 4
+			[8]
+			UISpriteData data
+				string name = "item_25547"
+				int x = 366
+				int y = 376
+				int width = 71
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 4
+				int paddingTop = 8
+				int paddingBottom = 5
+			[9]
+			UISpriteData data
+				string name = "item_25548"
+				int x = 366
+				int y = 308
+				int width = 71
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 4
+				int paddingTop = 8
+				int paddingBottom = 5
+			[10]
+			UISpriteData data
+				string name = "item_25549"
+				int x = 366
+				int y = 444
+				int width = 71
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 4
+				int paddingTop = 8
+				int paddingBottom = 5
+			[11]
+			UISpriteData data
+				string name = "item_25550"
+				int x = 366
+				int y = 512
+				int width = 71
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 4
+				int paddingTop = 8
+				int paddingBottom = 5
+			[12]
+			UISpriteData data
+				string name = "item_25551"
+				int x = 226
+				int y = 353
+				int width = 67
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 5
+				int paddingTop = 4
+				int paddingBottom = 6
+			[13]
+			UISpriteData data
+				string name = "item_25552"
+				int x = 226
+				int y = 424
+				int width = 67
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 5
+				int paddingTop = 4
+				int paddingBottom = 6
+			[14]
+			UISpriteData data
+				string name = "item_25553"
+				int x = 226
+				int y = 495
+				int width = 67
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 5
+				int paddingTop = 4
+				int paddingBottom = 6
+			[15]
+			UISpriteData data
+				string name = "item_25554"
+				int x = 226
+				int y = 566
+				int width = 67
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 5
+				int paddingTop = 4
+				int paddingBottom = 6
+			[16]
+			UISpriteData data
+				string name = "item_3000701"
+				int x = 819
+				int y = 587
+				int width = 58
+				int height = 61
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 12
+				int paddingTop = 8
+				int paddingBottom = 11
+			[17]
+			UISpriteData data
+				string name = "item_3000702"
+				int x = 366
+				int y = 580
+				int width = 71
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 7
+				int paddingTop = 4
+				int paddingBottom = 8
+			[18]
+			UISpriteData data
+				string name = "item_3000703"
+				int x = 438
+				int y = 308
+				int width = 61
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 11
+				int paddingTop = 6
+				int paddingBottom = 8
+			[19]
+			UISpriteData data
+				string name = "item_3000704"
+				int x = 917
+				int y = 479
+				int width = 69
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 22
+				int paddingBottom = 14
+			[20]
+			UISpriteData data
+				string name = "item_3000710"
+				int x = 438
+				int y = 241
+				int width = 61
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 11
+				int paddingTop = 6
+				int paddingBottom = 8
+			[21]
+			UISpriteData data
+				string name = "item_3000912"
+				int x = 788
+				int y = 471
+				int width = 62
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 12
+				int paddingBottom = 16
+			[22]
+			UISpriteData data
+				string name = "item_3000930"
+				int x = 875
+				int y = 532
+				int width = 62
+				int height = 54
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 13
+				int paddingBottom = 13
+			[23]
+			UISpriteData data
+				string name = "item_3000950"
+				int x = 0
+				int y = 620
+				int width = 79
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[24]
+			UISpriteData data
+				string name = "item_3000951"
+				int x = 0
+				int y = 539
+				int width = 79
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[25]
+			UISpriteData data
+				string name = "item_3000952"
+				int x = 0
+				int y = 782
+				int width = 79
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[26]
+			UISpriteData data
+				string name = "item_3000953"
+				int x = 0
+				int y = 701
+				int width = 79
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[27]
+			UISpriteData data
+				string name = "item_3000960"
+				int x = 0
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[28]
+			UISpriteData data
+				string name = "item_3000961"
+				int x = 486
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[29]
+			UISpriteData data
+				string name = "item_3000962"
+				int x = 405
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[30]
+			UISpriteData data
+				string name = "item_3000963"
+				int x = 243
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[31]
+			UISpriteData data
+				string name = "item_3000964"
+				int x = 0
+				int y = 381
+				int width = 79
+				int height = 78
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 1
+				int paddingTop = 0
+				int paddingBottom = 2
+			[32]
+			UISpriteData data
+				string name = "item_3000965"
+				int x = 226
+				int y = 713
+				int width = 68
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 4
+				int paddingTop = 3
+				int paddingBottom = 0
+			[33]
+			UISpriteData data
+				string name = "item_3000966"
+				int x = 749
+				int y = 531
+				int width = 62
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 9
+				int paddingBottom = 16
+			[34]
+			UISpriteData data
+				string name = "item_3000970"
+				int x = 0
+				int y = 863
+				int width = 79
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[35]
+			UISpriteData data
+				string name = "item_3000971"
+				int x = 81
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[36]
+			UISpriteData data
+				string name = "item_3000972"
+				int x = 812
+				int y = 531
+				int width = 62
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 9
+				int paddingBottom = 16
+			[37]
+			UISpriteData data
+				string name = "item_3000973"
+				int x = 0
+				int y = 460
+				int width = 79
+				int height = 78
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 1
+				int paddingTop = 0
+				int paddingBottom = 2
+			[38]
+			UISpriteData data
+				string name = "item_3000980"
+				int x = 159
+				int y = 706
+				int width = 65
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 8
+				int paddingTop = 0
+				int paddingBottom = 0
+			[39]
+			UISpriteData data
+				string name = "item_3000981"
+				int x = 159
+				int y = 463
+				int width = 65
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 8
+				int paddingTop = 0
+				int paddingBottom = 0
+			[40]
+			UISpriteData data
+				string name = "item_3000982"
+				int x = 159
+				int y = 625
+				int width = 65
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 8
+				int paddingTop = 0
+				int paddingBottom = 0
+			[41]
+			UISpriteData data
+				string name = "item_3000983"
+				int x = 159
+				int y = 544
+				int width = 65
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 8
+				int paddingTop = 0
+				int paddingBottom = 0
+			[42]
+			UISpriteData data
+				string name = "item_3000984"
+				int x = 80
+				int y = 477
+				int width = 74
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 2
+				int paddingBottom = 1
+			[43]
+			UISpriteData data
+				string name = "item_3000985"
+				int x = 769
+				int y = 655
+				int width = 80
+				int height = 59
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 10
+				int paddingBottom = 11
+			[44]
+			UISpriteData data
+				string name = "item_3000986"
+				int x = 526
+				int y = 655
+				int width = 80
+				int height = 59
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 10
+				int paddingBottom = 11
+			[45]
+			UISpriteData data
+				string name = "item_3000987"
+				int x = 688
+				int y = 655
+				int width = 80
+				int height = 59
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 10
+				int paddingBottom = 11
+			[46]
+			UISpriteData data
+				string name = "item_3000988"
+				int x = 607
+				int y = 655
+				int width = 80
+				int height = 59
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 10
+				int paddingBottom = 11
+			[47]
+			UISpriteData data
+				string name = "item_3000989"
+				int x = 567
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[48]
+			UISpriteData data
+				string name = "item_3000990"
+				int x = 295
+				int y = 355
+				int width = 62
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 0
+				int paddingBottom = 10
+			[49]
+			UISpriteData data
+				string name = "item_3000991"
+				int x = 445
+				int y = 652
+				int width = 80
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 11
+				int paddingBottom = 7
+			[50]
+			UISpriteData data
+				string name = "item_3000992"
+				int x = 80
+				int y = 396
+				int width = 71
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[51]
+			UISpriteData data
+				string name = "item_3000993"
+				int x = 512
+				int y = 591
+				int width = 78
+				int height = 57
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 2
+				int paddingTop = 12
+				int paddingBottom = 11
+			[52]
+			UISpriteData data
+				string name = "item_3000994"
+				int x = 80
+				int y = 234
+				int width = 69
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 0
+				int paddingBottom = 0
+			[53]
+			UISpriteData data
+				string name = "item_3000995"
+				int x = 80
+				int y = 868
+				int width = 80
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 5
+				int paddingBottom = 0
+			[54]
+			UISpriteData data
+				string name = "item_3001035"
+				int x = 159
+				int y = 383
+				int width = 60
+				int height = 79
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 9
+				int paddingTop = 1
+				int paddingBottom = 0
+			[55]
+			UISpriteData data
+				string name = "item_3001062"
+				int x = 938
+				int y = 538
+				int width = 68
+				int height = 48
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 5
+				int paddingTop = 11
+				int paddingBottom = 21
+			[56]
+			UISpriteData data
+				string name = "item_3001063"
+				int x = 502
+				int y = 319
+				int width = 55
+				int height = 63
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 13
+				int paddingRight = 12
+				int paddingTop = 9
+				int paddingBottom = 8
+			[57]
+			UISpriteData data
+				string name = "item_3001100"
+				int x = 559
+				int y = 458
+				int width = 59
+				int height = 65
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 9
+				int paddingTop = 7
+				int paddingBottom = 8
+			[58]
+			UISpriteData data
+				string name = "item_3001103"
+				int x = 810
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[59]
+			UISpriteData data
+				string name = "item_3001110"
+				int x = 161
+				int y = 871
+				int width = 80
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 8
+			[60]
+			UISpriteData data
+				string name = "item_3001111"
+				int x = 80
+				int y = 315
+				int width = 70
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 0
+				int paddingBottom = 0
+			[61]
+			UISpriteData data
+				string name = "item_3001112"
+				int x = 0
+				int y = 221
+				int width = 76
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[62]
+			UISpriteData data
+				string name = "item_3001113"
+				int x = 80
+				int y = 6
+				int width = 76
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 7
+				int paddingBottom = 5
+			[63]
+			UISpriteData data
+				string name = "item_3001114"
+				int x = 502
+				int y = 88
+				int width = 44
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 13
+				int paddingRight = 23
+				int paddingTop = 2
+				int paddingBottom = 1
+			[64]
+			UISpriteData data
+				string name = "item_3001115"
+				int x = 80
+				int y = 156
+				int width = 69
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 1
+				int paddingBottom = 2
+			[65]
+			UISpriteData data
+				string name = "item_3001116"
+				int x = 438
+				int y = 375
+				int width = 56
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 12
+				int paddingTop = 5
+				int paddingBottom = 3
+			[66]
+			UISpriteData data
+				string name = "item_3001190"
+				int x = 542
+				int y = 870
+				int width = 74
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 4
+				int paddingBottom = 3
+			[67]
+			UISpriteData data
+				string name = "item_3001191"
+				int x = 468
+				int y = 869
+				int width = 73
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 4
+				int paddingTop = 3
+				int paddingBottom = 3
+			[68]
+			UISpriteData data
+				string name = "item_3001192"
+				int x = 648
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[69]
+			UISpriteData data
+				string name = "item_3001193"
+				int x = 438
+				int y = 178
+				int width = 63
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 9
+				int paddingTop = 3
+				int paddingBottom = 15
+			[70]
+			UISpriteData data
+				string name = "item_3032039"
+				int x = 693
+				int y = 872
+				int width = 74
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 3
+				int paddingBottom = 6
+			[71]
+			UISpriteData data
+				string name = "item_3032040"
+				int x = 768
+				int y = 872
+				int width = 74
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 3
+				int paddingBottom = 6
+			[72]
+			UISpriteData data
+				string name = "item_3032050"
+				int x = 721
+				int y = 405
+				int width = 51
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 13
+				int paddingRight = 16
+				int paddingTop = 12
+				int paddingBottom = 16
+			[73]
+			UISpriteData data
+				string name = "item_3032051"
+				int x = 559
+				int y = 278
+				int width = 45
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 16
+				int paddingTop = 15
+				int paddingBottom = 13
+			[74]
+			UISpriteData data
+				string name = "item_30710"
+				int x = 366
+				int y = 100
+				int width = 60
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 11
+				int paddingTop = 5
+				int paddingBottom = 5
+			[75]
+			UISpriteData data
+				string name = "item_30711"
+				int x = 295
+				int y = 57
+				int width = 59
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 12
+				int paddingTop = 4
+				int paddingBottom = 4
+			[76]
+			UISpriteData data
+				string name = "item_30712"
+				int x = 679
+				int y = 460
+				int width = 57
+				int height = 63
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 12
+				int paddingTop = 9
+				int paddingBottom = 8
+			[77]
+			UISpriteData data
+				string name = "item_30713"
+				int x = 502
+				int y = 166
+				int width = 45
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 21
+				int paddingRight = 14
+				int paddingTop = 3
+				int paddingBottom = 1
+			[78]
+			UISpriteData data
+				string name = "item_30714"
+				int x = 502
+				int y = 16
+				int width = 46
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 14
+				int paddingRight = 20
+				int paddingTop = 5
+				int paddingBottom = 4
+			[79]
+			UISpriteData data
+				string name = "item_30715"
+				int x = 438
+				int y = 36
+				int width = 53
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 18
+				int paddingRight = 9
+				int paddingTop = 4
+				int paddingBottom = 3
+			[80]
+			UISpriteData data
+				string name = "item_30716"
+				int x = 559
+				int y = 389
+				int width = 47
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 14
+				int paddingTop = 6
+				int paddingBottom = 6
+			[81]
+			UISpriteData data
+				string name = "item_30717"
+				int x = 878
+				int y = 591
+				int width = 62
+				int height = 57
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 7
+				int paddingTop = 15
+				int paddingBottom = 8
+			[82]
+			UISpriteData data
+				string name = "item_30718"
+				int x = 295
+				int y = 206
+				int width = 56
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 12
+				int paddingTop = 2
+				int paddingBottom = 1
+			[83]
+			UISpriteData data
+				string name = "item_30719"
+				int x = 502
+				int y = 454
+				int width = 56
+				int height = 69
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 14
+				int paddingRight = 10
+				int paddingTop = 7
+				int paddingBottom = 4
+			[84]
+			UISpriteData data
+				string name = "item_30720"
+				int x = 226
+				int y = 210
+				int width = 61
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 10
+				int paddingTop = 4
+				int paddingBottom = 3
+			[85]
+			UISpriteData data
+				string name = "item_30721"
+				int x = 159
+				int y = 156
+				int width = 64
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 7
+				int paddingTop = 4
+				int paddingBottom = 4
+			[86]
+			UISpriteData data
+				string name = "item_30722"
+				int x = 689
+				int y = 528
+				int width = 59
+				int height = 58
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 12
+				int paddingTop = 13
+				int paddingBottom = 9
+			[87]
+			UISpriteData data
+				string name = "item_30723"
+				int x = 295
+				int y = 284
+				int width = 62
+				int height = 70
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 6
+				int paddingBottom = 4
+			[88]
+			UISpriteData data
+				string name = "item_30724"
+				int x = 226
+				int y = 4
+				int width = 65
+				int height = 65
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 10
+				int paddingTop = 10
+				int paddingBottom = 5
+			[89]
+			UISpriteData data
+				string name = "item_30900"
+				int x = 567
+				int y = 525
+				int width = 57
+				int height = 61
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 12
+				int paddingTop = 10
+				int paddingBottom = 9
+			[90]
+			UISpriteData data
+				string name = "item_30901"
+				int x = 672
+				int y = 592
+				int width = 72
+				int height = 56
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 4
+				int paddingTop = 14
+				int paddingBottom = 10
+			[91]
+			UISpriteData data
+				string name = "item_30910"
+				int x = 625
+				int y = 531
+				int width = 63
+				int height = 55
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 7
+				int paddingTop = 15
+				int paddingBottom = 10
+			[92]
+			UISpriteData data
+				string name = "item_30911"
+				int x = 617
+				int y = 871
+				int width = 75
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 1
+				int paddingTop = 7
+				int paddingBottom = 1
+			[93]
+			UISpriteData data
+				string name = "item_30912"
+				int x = 366
+				int y = 649
+				int width = 78
+				int height = 65
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 8
+				int paddingBottom = 7
+			[94]
+			UISpriteData data
+				string name = "item_40373"
+				int x = 366
+				int y = 241
+				int width = 71
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 4
+				int paddingTop = 6
+				int paddingBottom = 8
+			[95]
+			UISpriteData data
+				string name = "item_42109"
+				int x = 366
+				int y = 171
+				int width = 61
+				int height = 69
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 10
+				int paddingTop = 4
+				int paddingBottom = 7
+			[96]
+			UISpriteData data
+				string name = "item_42113"
+				int x = 729
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[97]
+			UISpriteData data
+				string name = "item_42568"
+				int x = 80
+				int y = 635
+				int width = 75
+				int height = 78
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 3
+				int paddingTop = 1
+				int paddingBottom = 1
+			[98]
+			UISpriteData data
+				string name = "item_44066"
+				int x = 0
+				int y = 142
+				int width = 77
+				int height = 78
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 3
+				int paddingTop = 0
+				int paddingBottom = 2
+			[99]
+			UISpriteData data
+				string name = "item_44067"
+				int x = 436
+				int y = 791
+				int width = 69
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 2
+				int paddingBottom = 2
+			[100]
+			UISpriteData data
+				string name = "item_44068"
+				int x = 394
+				int y = 869
+				int width = 73
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 4
+				int paddingTop = 3
+				int paddingBottom = 3
+			[101]
+			UISpriteData data
+				string name = "item_44069"
+				int x = 891
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[102]
+			UISpriteData data
+				string name = "item_44312"
+				int x = 985
+				int y = 871
+				int width = 25
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 30
+				int paddingRight = 25
+				int paddingTop = 5
+				int paddingBottom = 3
+			[103]
+			UISpriteData data
+				string name = "item_47196"
+				int x = 226
+				int y = 284
+				int width = 67
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 8
+				int paddingTop = 6
+				int paddingBottom = 6
+			[104]
+			UISpriteData data
+				string name = "item_47199"
+				int x = 80
+				int y = 555
+				int width = 73
+				int height = 79
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 2
+				int paddingTop = 1
+				int paddingBottom = 0
+			[105]
+			UISpriteData data
+				string name = "item_48083"
+				int x = 438
+				int y = 520
+				int width = 63
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 8
+				int paddingTop = 8
+				int paddingBottom = 6
+			[106]
+			UISpriteData data
+				string name = "item_49160"
+				int x = 295
+				int y = 0
+				int width = 66
+				int height = 56
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 3
+				int paddingTop = 13
+				int paddingBottom = 11
+			[107]
+			UISpriteData data
+				string name = "item_49162"
+				int x = 159
+				int y = 787
+				int width = 66
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 8
+				int paddingTop = 0
+				int paddingBottom = 0
+			[108]
+			UISpriteData data
+				string name = "item_500"
+				int x = 851
+				int y = 474
+				int width = 65
+				int height = 49
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 9
+				int paddingTop = 15
+				int paddingBottom = 16
+			[109]
+			UISpriteData data
+				string name = "item_500601"
+				int x = 785
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[110]
+			UISpriteData data
+				string name = "item_500602"
+				int x = 575
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[111]
+			UISpriteData data
+				string name = "item_500603"
+				int x = 295
+				int y = 493
+				int width = 70
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 4
+				int paddingTop = 4
+				int paddingBottom = 4
+			[112]
+			UISpriteData data
+				string name = "item_500604"
+				int x = 317
+				int y = 870
+				int width = 76
+				int height = 73
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 4
+				int paddingBottom = 3
+			[113]
+			UISpriteData data
+				string name = "item_500605"
+				int x = 438
+				int y = 110
+				int width = 58
+				int height = 67
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 11
+				int paddingTop = 6
+				int paddingBottom = 7
+			[114]
+			UISpriteData data
+				string name = "item_500606"
+				int x = 716
+				int y = 792
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[115]
+			UISpriteData data
+				string name = "item_500607"
+				int x = 786
+				int y = 792
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[116]
+			UISpriteData data
+				string name = "item_500608"
+				int x = 856
+				int y = 792
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[117]
+			UISpriteData data
+				string name = "item_500609"
+				int x = 926
+				int y = 792
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[118]
+			UISpriteData data
+				string name = "item_500610"
+				int x = 295
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[119]
+			UISpriteData data
+				string name = "item_500611"
+				int x = 576
+				int y = 792
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[120]
+			UISpriteData data
+				string name = "item_500612"
+				int x = 646
+				int y = 792
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[121]
+			UISpriteData data
+				string name = "item_500613"
+				int x = 855
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[122]
+			UISpriteData data
+				string name = "item_500614"
+				int x = 365
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 6
+				int paddingTop = 3
+				int paddingBottom = 2
+			[123]
+			UISpriteData data
+				string name = "item_500615"
+				int x = 715
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 2
+			[124]
+			UISpriteData data
+				string name = "item_500616"
+				int x = 645
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 2
+			[125]
+			UISpriteData data
+				string name = "item_500617"
+				int x = 924
+				int y = 652
+				int width = 72
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 2
+				int paddingTop = 9
+				int paddingBottom = 9
+			[126]
+			UISpriteData data
+				string name = "item_500618"
+				int x = 941
+				int y = 596
+				int width = 67
+				int height = 52
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 6
+				int paddingTop = 13
+				int paddingBottom = 15
+			[127]
+			UISpriteData data
+				string name = "item_500619"
+				int x = 159
+				int y = 81
+				int width = 61
+				int height = 74
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 13
+				int paddingTop = 3
+				int paddingBottom = 3
+			[128]
+			UISpriteData data
+				string name = "item_500620"
+				int x = 914
+				int y = 868
+				int width = 70
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 4
+				int paddingTop = 2
+				int paddingBottom = 3
+			[129]
+			UISpriteData data
+				string name = "item_500621"
+				int x = 226
+				int y = 637
+				int width = 68
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 2
+			[130]
+			UISpriteData data
+				string name = "item_500622"
+				int x = 226
+				int y = 791
+				int width = 69
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 2
+				int paddingBottom = 2
+			[131]
+			UISpriteData data
+				string name = "item_500623"
+				int x = 296
+				int y = 791
+				int width = 69
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 2
+				int paddingBottom = 2
+			[132]
+			UISpriteData data
+				string name = "item_500624"
+				int x = 366
+				int y = 791
+				int width = 69
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 2
+				int paddingBottom = 2
+			[133]
+			UISpriteData data
+				string name = "item_500625"
+				int x = 438
+				int y = 448
+				int width = 57
+				int height = 71
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 13
+				int paddingTop = 4
+				int paddingBottom = 5
+			[134]
+			UISpriteData data
+				string name = "item_500626"
+				int x = 505
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 2
+			[135]
+			UISpriteData data
+				string name = "item_500627"
+				int x = 0
+				int y = 0
+				int width = 72
+				int height = 64
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 3
+				int paddingTop = 7
+				int paddingBottom = 9
+			[136]
+			UISpriteData data
+				string name = "item_500628"
+				int x = 159
+				int y = 229
+				int width = 61
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 8
+				int paddingTop = 2
+				int paddingBottom = 2
+			[137]
+			UISpriteData data
+				string name = "item_500629"
+				int x = 435
+				int y = 715
+				int width = 69
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 2
+			[138]
+			UISpriteData data
+				string name = "item_500630"
+				int x = 506
+				int y = 791
+				int width = 69
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 5
+				int paddingTop = 2
+				int paddingBottom = 2
+			[139]
+			UISpriteData data
+				string name = "item_501"
+				int x = 502
+				int y = 243
+				int width = 46
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 17
+				int paddingRight = 17
+				int paddingTop = 3
+				int paddingBottom = 2
+			[140]
+			UISpriteData data
+				string name = "item_502"
+				int x = 745
+				int y = 599
+				int width = 73
+				int height = 49
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 2
+				int paddingTop = 15
+				int paddingBottom = 16
+			[141]
+			UISpriteData data
+				string name = "item_503"
+				int x = 972
+				int y = 947
+				int width = 46
+				int height = 77
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 17
+				int paddingRight = 17
+				int paddingTop = 1
+				int paddingBottom = 2
+			[142]
+			UISpriteData data
+				string name = "item_504"
+				int x = 0
+				int y = 65
+				int width = 78
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 0
+				int paddingTop = 4
+				int paddingBottom = 0
+			[143]
+			UISpriteData data
+				string name = "item_505"
+				int x = 324
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[144]
+			UISpriteData data
+				string name = "item_51550"
+				int x = 159
+				int y = 306
+				int width = 62
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 9
+				int paddingTop = 2
+				int paddingBottom = 2
+			[145]
+			UISpriteData data
+				string name = "item_51551"
+				int x = 366
+				int y = 24
+				int width = 56
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 12
+				int paddingRight = 12
+				int paddingTop = 4
+				int paddingBottom = 1
+			[146]
+			UISpriteData data
+				string name = "item_51552"
+				int x = 843
+				int y = 868
+				int width = 70
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 4
+				int paddingTop = 3
+				int paddingBottom = 2
+			[147]
+			UISpriteData data
+				string name = "item_53945"
+				int x = 737
+				int y = 458
+				int width = 50
+				int height = 65
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 11
+				int paddingTop = 6
+				int paddingBottom = 9
+			[148]
+			UISpriteData data
+				string name = "item_53946"
+				int x = 295
+				int y = 130
+				int width = 57
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 12
+				int paddingTop = 3
+				int paddingBottom = 2
+			[149]
+			UISpriteData data
+				string name = "item_5607"
+				int x = 242
+				int y = 868
+				int width = 74
+				int height = 75
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 2
+				int paddingTop = 3
+				int paddingBottom = 2
+			[150]
+			UISpriteData data
+				string name = "item_5756"
+				int x = 159
+				int y = 12
+				int width = 66
+				int height = 68
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 7
+				int paddingTop = 6
+				int paddingBottom = 6
+			[151]
+			UISpriteData data
+				string name = "item_6005"
+				int x = 502
+				int y = 524
+				int width = 64
+				int height = 62
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 8
+				int paddingTop = 8
+				int paddingBottom = 10
+			[152]
+			UISpriteData data
+				string name = "item_6085"
+				int x = 850
+				int y = 651
+				int width = 73
+				int height = 63
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 4
+				int paddingTop = 10
+				int paddingBottom = 7
+			[153]
+			UISpriteData data
+				string name = "item_6683"
+				int x = 80
+				int y = 714
+				int width = 78
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 3
+			[154]
+			UISpriteData data
+				string name = "item_6684"
+				int x = 80
+				int y = 791
+				int width = 78
+				int height = 76
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 3
+			[155]
+			UISpriteData data
+				string name = "item_6685"
+				int x = 438
+				int y = 587
+				int width = 73
+				int height = 61
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 3
+				int paddingTop = 9
+				int paddingBottom = 10
+			[156]
+			UISpriteData data
+				string name = "item_900044"
+				int x = 658
+				int y = 413
+				int width = 62
+				int height = 44
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 8
+				int paddingRight = 10
+				int paddingTop = 19
+				int paddingBottom = 17
+			[157]
+			UISpriteData data
+				string name = "item_900045"
+				int x = 559
+				int y = 331
+				int width = 45
+				int height = 57
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 16
+				int paddingTop = 13
+				int paddingBottom = 10
+			[158]
+			UISpriteData data
+				string name = "item_900046"
+				int x = 295
+				int y = 426
+				int width = 69
+				int height = 66
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 7
+				int paddingRight = 4
+				int paddingTop = 8
+				int paddingBottom = 6
+			[159]
+			UISpriteData data
+				string name = "item_900047"
+				int x = 607
+				int y = 401
+				int width = 50
+				int height = 56
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 17
+				int paddingRight = 13
+				int paddingTop = 12
+				int paddingBottom = 12
+			[160]
+			UISpriteData data
+				string name = "item3001120"
+				int x = 162
+				int y = 944
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[161]
+			UISpriteData data
+				string name = "walk"
+				int x = 226
+				int y = 137
+				int width = 61
+				int height = 72
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 10
+				int paddingRight = 9
+				int paddingTop = 4
+				int paddingBottom = 4
+			[162]
+			UISpriteData data
+				string name = "Yolk_Poring"
+				int x = 591
+				int y = 597
+				int width = 80
+				int height = 51
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 17
+				int paddingBottom = 12
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

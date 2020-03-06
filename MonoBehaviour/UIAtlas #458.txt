@@ -1,0 +1,83 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 636326001972120866
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = 6619566184026817716
+	UISpriteData mSprites
+		Array Array
+		int size = 4
+			[0]
+			UISpriteData data
+				string name = "line"
+				int x = 0
+				int y = 176
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[1]
+			UISpriteData data
+				string name = "tab_icon_50"
+				int x = 83
+				int y = 213
+				int width = 43
+				int height = 43
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 18
+				int paddingTop = 19
+				int paddingBottom = 18
+			[2]
+			UISpriteData data
+				string name = "tab_icon_51"
+				int x = 83
+				int y = 132
+				int width = 41
+				int height = 41
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 19
+				int paddingTop = 20
+				int paddingBottom = 19
+			[3]
+			UISpriteData data
+				string name = "Twitter"
+				int x = 0
+				int y = 93
+				int width = 80
+				int height = 80
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

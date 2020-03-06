@@ -1,0 +1,158 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = -5943690686152013574
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = -7274382707601366593
+	UISpriteData mSprites
+		Array Array
+		int size = 9
+			[0]
+			UISpriteData data
+				string name = "photo_bg_boli"
+				int x = 163
+				int y = 84
+				int width = 24
+				int height = 44
+				int borderLeft = 8
+				int borderRight = 8
+				int borderTop = 4
+				int borderBottom = 8
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 0
+			[1]
+			UISpriteData data
+				string name = "photo_bg_FT"
+				int x = 188
+				int y = 84
+				int width = 24
+				int height = 44
+				int borderLeft = 8
+				int borderRight = 8
+				int borderTop = 4
+				int borderBottom = 8
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 0
+			[2]
+			UISpriteData data
+				string name = "photo_bg_nothing"
+				int x = 213
+				int y = 84
+				int width = 24
+				int height = 44
+				int borderLeft = 8
+				int borderRight = 8
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 0
+			[3]
+			UISpriteData data
+				string name = "photo_bg_starlight"
+				int x = 111
+				int y = 36
+				int width = 24
+				int height = 45
+				int borderLeft = 8
+				int borderRight = 8
+				int borderTop = 7
+				int borderBottom = 9
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[4]
+			UISpriteData data
+				string name = "photo_bg_ValentinesDay"
+				int x = 136
+				int y = 36
+				int width = 24
+				int height = 45
+				int borderLeft = 8
+				int borderRight = 8
+				int borderTop = 6
+				int borderBottom = 8
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[5]
+			UISpriteData data
+				string name = "photo_icon_boli"
+				int x = 111
+				int y = 82
+				int width = 51
+				int height = 46
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 3
+				int paddingTop = 9
+				int paddingBottom = 5
+			[6]
+			UISpriteData data
+				string name = "photo_icon_FT"
+				int x = 52
+				int y = 16
+				int width = 50
+				int height = 51
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 5
+				int paddingTop = 4
+				int paddingBottom = 5
+			[7]
+			UISpriteData data
+				string name = "photo_icon_starlight"
+				int x = 52
+				int y = 68
+				int width = 58
+				int height = 60
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[8]
+			UISpriteData data
+				string name = "photo_icon_ValentinesDay"
+				int x = 0
+				int y = 32
+				int width = 51
+				int height = 96
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 5
+				int paddingTop = 4
+				int paddingBottom = 4
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

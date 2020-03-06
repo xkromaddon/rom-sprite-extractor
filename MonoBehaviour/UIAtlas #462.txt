@@ -1,0 +1,338 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 7599356631888582540
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = -9137012971873438025
+	UISpriteData mSprites
+		Array Array
+		int size = 21
+			[0]
+			UISpriteData data
+				string name = "BattlePass_01"
+				int x = 488
+				int y = 1840
+				int width = 251
+				int height = 208
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 13
+				int paddingBottom = 12
+			[1]
+			UISpriteData data
+				string name = "bigcat_01"
+				int x = 220
+				int y = 1359
+				int width = 213
+				int height = 222
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 19
+				int paddingTop = 10
+				int paddingBottom = 1
+			[2]
+			UISpriteData data
+				string name = "bigcat_02"
+				int x = 239
+				int y = 1826
+				int width = 248
+				int height = 222
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 3
+				int paddingTop = 10
+				int paddingBottom = 1
+			[3]
+			UISpriteData data
+				string name = "bigcat_03"
+				int x = 434
+				int y = 1359
+				int width = 213
+				int height = 222
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 19
+				int paddingTop = 10
+				int paddingBottom = 1
+			[4]
+			UISpriteData data
+				string name = "bigcat_04"
+				int x = 648
+				int y = 1359
+				int width = 213
+				int height = 222
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 19
+				int paddingTop = 10
+				int paddingBottom = 1
+			[5]
+			UISpriteData data
+				string name = "bigcat_05"
+				int x = 0
+				int y = 1816
+				int width = 238
+				int height = 232
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 9
+				int paddingTop = 0
+				int paddingBottom = 1
+			[6]
+			UISpriteData data
+				string name = "bigcat_06"
+				int x = 740
+				int y = 1824
+				int width = 231
+				int height = 224
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 19
+				int paddingRight = 1
+				int paddingTop = 8
+				int paddingBottom = 1
+			[7]
+			UISpriteData data
+				string name = "bigcat_07"
+				int x = 0
+				int y = 1355
+				int width = 219
+				int height = 226
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 10
+				int paddingTop = 7
+				int paddingBottom = 0
+			[8]
+			UISpriteData data
+				string name = "celebrate_bag"
+				int x = 206
+				int y = 1146
+				int width = 213
+				int height = 208
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 18
+				int paddingTop = 13
+				int paddingBottom = 12
+			[9]
+			UISpriteData data
+				string name = "fudai_01"
+				int x = 626
+				int y = 1146
+				int width = 208
+				int height = 208
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 23
+				int paddingTop = 13
+				int paddingBottom = 12
+			[10]
+			UISpriteData data
+				string name = "fudai_02"
+				int x = 0
+				int y = 925
+				int width = 208
+				int height = 208
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 21
+				int paddingTop = 12
+				int paddingBottom = 13
+			[11]
+			UISpriteData data
+				string name = "Giftjp_3620"
+				int x = 0
+				int y = 722
+				int width = 202
+				int height = 202
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 23
+				int paddingRight = 26
+				int paddingTop = 13
+				int paddingBottom = 18
+			[12]
+			UISpriteData data
+				string name = "IOSGift"
+				int x = 418
+				int y = 930
+				int width = 203
+				int height = 203
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 23
+				int paddingRight = 25
+				int paddingTop = 13
+				int paddingBottom = 17
+			[13]
+			UISpriteData data
+				string name = "lihe"
+				int x = 420
+				int y = 1140
+				int width = 205
+				int height = 214
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 24
+				int paddingTop = 13
+				int paddingBottom = 6
+			[14]
+			UISpriteData data
+				string name = "Lisa"
+				int x = 209
+				int y = 925
+				int width = 208
+				int height = 208
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 20
+				int paddingRight = 23
+				int paddingTop = 13
+				int paddingBottom = 12
+			[15]
+			UISpriteData data
+				string name = "Modeng01"
+				int x = 0
+				int y = 1134
+				int width = 205
+				int height = 220
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 22
+				int paddingRight = 24
+				int paddingTop = 13
+				int paddingBottom = 0
+			[16]
+			UISpriteData data
+				string name = "ND_01"
+				int x = 0
+				int y = 1582
+				int width = 236
+				int height = 233
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 6
+				int paddingRight = 9
+				int paddingTop = 0
+				int paddingBottom = 0
+			[17]
+			UISpriteData data
+				string name = "ND_02"
+				int x = 237
+				int y = 1582
+				int width = 233
+				int height = 233
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 17
+				int paddingRight = 1
+				int paddingTop = 0
+				int paddingBottom = 0
+			[18]
+			UISpriteData data
+				string name = "ND_03"
+				int x = 471
+				int y = 1582
+				int width = 230
+				int height = 233
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 9
+				int paddingRight = 12
+				int paddingTop = 0
+				int paddingBottom = 0
+			[19]
+			UISpriteData data
+				string name = "ND_04"
+				int x = 702
+				int y = 1582
+				int width = 222
+				int height = 233
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 11
+				int paddingRight = 18
+				int paddingTop = 0
+				int paddingBottom = 0
+			[20]
+			UISpriteData data
+				string name = "TAPTAPGift"
+				int x = 622
+				int y = 930
+				int width = 203
+				int height = 203
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 23
+				int paddingRight = 25
+				int paddingTop = 13
+				int paddingBottom = 17
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

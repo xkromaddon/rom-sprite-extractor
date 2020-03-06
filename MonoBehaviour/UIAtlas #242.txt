@@ -1,0 +1,2258 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 8309781242558792627
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = 521599190612932575
+	UISpriteData mSprites
+		Array Array
+		int size = 149
+			[0]
+			UISpriteData data
+				string name = "butterflyteam"
+				int x = 230
+				int y = 72
+				int width = 26
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 1
+				int paddingBottom = 1
+			[1]
+			UISpriteData data
+				string name = "career_01_1"
+				int x = 197
+				int y = 44
+				int width = 29
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 2
+				int paddingTop = 1
+				int paddingBottom = 1
+			[2]
+			UISpriteData data
+				string name = "career_01_2"
+				int x = 0
+				int y = 158
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[3]
+			UISpriteData data
+				string name = "career_02_1"
+				int x = 99
+				int y = 225
+				int width = 31
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 0
+			[4]
+			UISpriteData data
+				string name = "career_02_2"
+				int x = 0
+				int y = 125
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[5]
+			UISpriteData data
+				string name = "career_03_1"
+				int x = 230
+				int y = 42
+				int width = 26
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 5
+				int paddingTop = 1
+				int paddingBottom = 2
+			[6]
+			UISpriteData data
+				string name = "career_03_2"
+				int x = 99
+				int y = 193
+				int width = 31
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 0
+			[7]
+			UISpriteData data
+				string name = "career_04_1"
+				int x = 99
+				int y = 33
+				int width = 31
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 1
+				int paddingTop = 2
+				int paddingBottom = 0
+			[8]
+			UISpriteData data
+				string name = "career_04_2"
+				int x = 99
+				int y = 1
+				int width = 30
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 0
+			[9]
+			UISpriteData data
+				string name = "career_05_1"
+				int x = 197
+				int y = 12
+				int width = 28
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 1
+				int paddingBottom = 0
+			[10]
+			UISpriteData data
+				string name = "career_05_2"
+				int x = 33
+				int y = 224
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[11]
+			UISpriteData data
+				string name = "guild_03"
+				int x = 99
+				int y = 161
+				int width = 31
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 0
+			[12]
+			UISpriteData data
+				string name = "guild_05"
+				int x = 131
+				int y = 39
+				int width = 30
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 0
+			[13]
+			UISpriteData data
+				string name = "guild_06"
+				int x = 33
+				int y = 158
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[14]
+			UISpriteData data
+				string name = "guild_07"
+				int x = 66
+				int y = 59
+				int width = 31
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[15]
+			UISpriteData data
+				string name = "guild_10"
+				int x = 131
+				int y = 71
+				int width = 31
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 2
+			[16]
+			UISpriteData data
+				string name = "guild_11"
+				int x = 131
+				int y = 226
+				int width = 32
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 1
+			[17]
+			UISpriteData data
+				string name = "guild_12"
+				int x = 230
+				int y = 136
+				int width = 27
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 2
+				int paddingTop = 1
+				int paddingBottom = 0
+			[18]
+			UISpriteData data
+				string name = "guild_13"
+				int x = 0
+				int y = 224
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[19]
+			UISpriteData data
+				string name = "guild_14"
+				int x = 99
+				int y = 129
+				int width = 31
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 1
+			[20]
+			UISpriteData data
+				string name = "guild_15"
+				int x = 230
+				int y = 201
+				int width = 32
+				int height = 27
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 4
+			[21]
+			UISpriteData data
+				string name = "guild_16"
+				int x = 363
+				int y = 37
+				int width = 20
+				int height = 22
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 1
+				int paddingBottom = 1
+			[22]
+			UISpriteData data
+				string name = "GuilIcon_101"
+				int x = 164
+				int y = 102
+				int width = 30
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[23]
+			UISpriteData data
+				string name = "GuilIcon_102"
+				int x = 164
+				int y = 133
+				int width = 30
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[24]
+			UISpriteData data
+				string name = "GuilIcon_103"
+				int x = 164
+				int y = 40
+				int width = 30
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[25]
+			UISpriteData data
+				string name = "GuilIcon_104"
+				int x = 197
+				int y = 199
+				int width = 32
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 3
+				int paddingBottom = 1
+			[26]
+			UISpriteData data
+				string name = "GuilIcon_105"
+				int x = 164
+				int y = 227
+				int width = 32
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 2
+				int paddingBottom = 1
+			[27]
+			UISpriteData data
+				string name = "GuilIcon_106"
+				int x = 131
+				int y = 102
+				int width = 32
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 1
+			[28]
+			UISpriteData data
+				string name = "GuilIcon_107"
+				int x = 164
+				int y = 11
+				int width = 32
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 2
+				int paddingBottom = 2
+			[29]
+			UISpriteData data
+				string name = "GuilIcon_108"
+				int x = 33
+				int y = 0
+				int width = 26
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 4
+				int paddingBottom = 3
+			[30]
+			UISpriteData data
+				string name = "GuilIcon_109"
+				int x = 66
+				int y = 125
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[31]
+			UISpriteData data
+				string name = "GuilIcon_110"
+				int x = 66
+				int y = 92
+				int width = 31
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 1
+				int paddingTop = 0
+				int paddingBottom = 0
+			[32]
+			UISpriteData data
+				string name = "GuilIcon_111"
+				int x = 230
+				int y = 103
+				int width = 25
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 5
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[33]
+			UISpriteData data
+				string name = "GuilIcon_112"
+				int x = 197
+				int y = 166
+				int width = 28
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[34]
+			UISpriteData data
+				string name = "GuilIcon_113"
+				int x = 66
+				int y = 6
+				int width = 32
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 6
+				int paddingBottom = 6
+			[35]
+			UISpriteData data
+				string name = "GuilIcon_114"
+				int x = 0
+				int y = 26
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[36]
+			UISpriteData data
+				string name = "GuilIcon_115"
+				int x = 33
+				int y = 59
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[37]
+			UISpriteData data
+				string name = "GuilIcon_116"
+				int x = 0
+				int y = 92
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[38]
+			UISpriteData data
+				string name = "GuilIcon_117"
+				int x = 0
+				int y = 191
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[39]
+			UISpriteData data
+				string name = "GuilIcon_118"
+				int x = 197
+				int y = 228
+				int width = 32
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 2
+				int paddingBottom = 2
+			[40]
+			UISpriteData data
+				string name = "GuilIcon_119"
+				int x = 99
+				int y = 64
+				int width = 30
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 0
+				int paddingBottom = 0
+			[41]
+			UISpriteData data
+				string name = "GuilIcon_120"
+				int x = 99
+				int y = 97
+				int width = 31
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 1
+			[42]
+			UISpriteData data
+				string name = "GuilIcon_121"
+				int x = 131
+				int y = 195
+				int width = 32
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 1
+			[43]
+			UISpriteData data
+				string name = "GuilIcon_122"
+				int x = 66
+				int y = 158
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[44]
+			UISpriteData data
+				string name = "GuilIcon_126"
+				int x = 164
+				int y = 197
+				int width = 32
+				int height = 29
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 2
+			[45]
+			UISpriteData data
+				string name = "GuilIcon_127"
+				int x = 66
+				int y = 191
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[46]
+			UISpriteData data
+				string name = "GuilIcon_128"
+				int x = 164
+				int y = 164
+				int width = 29
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[47]
+			UISpriteData data
+				string name = "GuilIcon_129"
+				int x = 66
+				int y = 224
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[48]
+			UISpriteData data
+				string name = "GuilIcon_130"
+				int x = 0
+				int y = 0
+				int width = 32
+				int height = 25
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 4
+				int paddingBottom = 3
+			[49]
+			UISpriteData data
+				string name = "GuilIcon_131"
+				int x = 131
+				int y = 164
+				int width = 32
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 2
+			[50]
+			UISpriteData data
+				string name = "GuilIcon_132"
+				int x = 33
+				int y = 26
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[51]
+			UISpriteData data
+				string name = "GuilIcon_133"
+				int x = 197
+				int y = 137
+				int width = 32
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 2
+				int paddingBottom = 2
+			[52]
+			UISpriteData data
+				string name = "GuilIcon_134"
+				int x = 197
+				int y = 108
+				int width = 32
+				int height = 28
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 3
+				int paddingBottom = 1
+			[53]
+			UISpriteData data
+				string name = "GuilIcon_135"
+				int x = 33
+				int y = 92
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[54]
+			UISpriteData data
+				string name = "GuilIcon_136"
+				int x = 363
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[55]
+			UISpriteData data
+				string name = "GuilIcon_137"
+				int x = 263
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[56]
+			UISpriteData data
+				string name = "GuilIcon_138"
+				int x = 288
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[57]
+			UISpriteData data
+				string name = "GuilIcon_139"
+				int x = 197
+				int y = 75
+				int width = 28
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[58]
+			UISpriteData data
+				string name = "GuilIcon_140"
+				int x = 66
+				int y = 27
+				int width = 32
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 0
+			[59]
+			UISpriteData data
+				string name = "GuilIcon_141"
+				int x = 313
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[60]
+			UISpriteData data
+				string name = "GuilIcon_142"
+				int x = 230
+				int y = 168
+				int width = 27
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 3
+				int paddingTop = 0
+				int paddingBottom = 0
+			[61]
+			UISpriteData data
+				string name = "GuilIcon_143"
+				int x = 131
+				int y = 7
+				int width = 30
+				int height = 31
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 0
+			[62]
+			UISpriteData data
+				string name = "GuilIcon_144"
+				int x = 131
+				int y = 133
+				int width = 32
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 1
+			[63]
+			UISpriteData data
+				string name = "GuilIcon_145"
+				int x = 164
+				int y = 71
+				int width = 30
+				int height = 30
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[64]
+			UISpriteData data
+				string name = "GuilIcon_146"
+				int x = 0
+				int y = 59
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[65]
+			UISpriteData data
+				string name = "GuilIcon_147"
+				int x = 386
+				int y = 53
+				int width = 17
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 4
+				int paddingTop = 4
+				int paddingBottom = 2
+			[66]
+			UISpriteData data
+				string name = "GuilIcon_148"
+				int x = 33
+				int y = 191
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[67]
+			UISpriteData data
+				string name = "GuilIcon_149"
+				int x = 338
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[68]
+			UISpriteData data
+				string name = "GuilIcon_150"
+				int x = 363
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[69]
+			UISpriteData data
+				string name = "GuilIcon_151"
+				int x = 388
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[70]
+			UISpriteData data
+				string name = "GuilIcon_152"
+				int x = 413
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[71]
+			UISpriteData data
+				string name = "GuilIcon_153"
+				int x = 438
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[72]
+			UISpriteData data
+				string name = "GuilIcon_154"
+				int x = 463
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[73]
+			UISpriteData data
+				string name = "GuilIcon_155"
+				int x = 488
+				int y = 232
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[74]
+			UISpriteData data
+				string name = "GuilIcon_156"
+				int x = 363
+				int y = 85
+				int width = 22
+				int height = 22
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[75]
+			UISpriteData data
+				string name = "GuilIcon_157"
+				int x = 263
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[76]
+			UISpriteData data
+				string name = "GuilIcon_158"
+				int x = 263
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[77]
+			UISpriteData data
+				string name = "GuilIcon_159"
+				int x = 263
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[78]
+			UISpriteData data
+				string name = "GuilIcon_160"
+				int x = 263
+				int y = 107
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[79]
+			UISpriteData data
+				string name = "GuilIcon_161"
+				int x = 263
+				int y = 82
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[80]
+			UISpriteData data
+				string name = "GuilIcon_162"
+				int x = 263
+				int y = 57
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[81]
+			UISpriteData data
+				string name = "GuilIcon_163"
+				int x = 363
+				int y = 60
+				int width = 20
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 3
+				int paddingTop = 0
+				int paddingBottom = 0
+			[82]
+			UISpriteData data
+				string name = "GuilIcon_164"
+				int x = 263
+				int y = 32
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[83]
+			UISpriteData data
+				string name = "GuilIcon_165"
+				int x = 263
+				int y = 7
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[84]
+			UISpriteData data
+				string name = "GuilIcon_166"
+				int x = 288
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[85]
+			UISpriteData data
+				string name = "GuilIcon_167"
+				int x = 363
+				int y = 15
+				int width = 20
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 2
+				int paddingBottom = 1
+			[86]
+			UISpriteData data
+				string name = "GuilIcon_168"
+				int x = 313
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[87]
+			UISpriteData data
+				string name = "GuilIcon_170"
+				int x = 338
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[88]
+			UISpriteData data
+				string name = "GuilIcon_171"
+				int x = 363
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[89]
+			UISpriteData data
+				string name = "GuilIcon_172"
+				int x = 388
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[90]
+			UISpriteData data
+				string name = "GuilIcon_173"
+				int x = 413
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[91]
+			UISpriteData data
+				string name = "GuilIcon_174"
+				int x = 438
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[92]
+			UISpriteData data
+				string name = "GuilIcon_175"
+				int x = 263
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[93]
+			UISpriteData data
+				string name = "GuilIcon_176"
+				int x = 463
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[94]
+			UISpriteData data
+				string name = "GuilIcon_177"
+				int x = 488
+				int y = 207
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[95]
+			UISpriteData data
+				string name = "GuilIcon_178"
+				int x = 288
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[96]
+			UISpriteData data
+				string name = "GuilIcon_179"
+				int x = 288
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[97]
+			UISpriteData data
+				string name = "GuilIcon_180"
+				int x = 33
+				int y = 125
+				int width = 32
+				int height = 32
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[98]
+			UISpriteData data
+				string name = "GuilIcon_181"
+				int x = 288
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[99]
+			UISpriteData data
+				string name = "GuilIcon_182"
+				int x = 288
+				int y = 107
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[100]
+			UISpriteData data
+				string name = "GuilIcon_183"
+				int x = 288
+				int y = 82
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[101]
+			UISpriteData data
+				string name = "GuilIcon_184"
+				int x = 288
+				int y = 57
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[102]
+			UISpriteData data
+				string name = "GuilIcon_186"
+				int x = 288
+				int y = 32
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[103]
+			UISpriteData data
+				string name = "GuilIcon_187"
+				int x = 288
+				int y = 7
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[104]
+			UISpriteData data
+				string name = "GuilIcon_188"
+				int x = 313
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[105]
+			UISpriteData data
+				string name = "GuilIcon_189"
+				int x = 338
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[106]
+			UISpriteData data
+				string name = "GuilIcon_190"
+				int x = 363
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[107]
+			UISpriteData data
+				string name = "GuilIcon_191"
+				int x = 388
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[108]
+			UISpriteData data
+				string name = "GuilIcon_192"
+				int x = 413
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[109]
+			UISpriteData data
+				string name = "GuilIcon_193"
+				int x = 438
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[110]
+			UISpriteData data
+				string name = "GuilIcon_194"
+				int x = 463
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[111]
+			UISpriteData data
+				string name = "GuilIcon_195"
+				int x = 488
+				int y = 182
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[112]
+			UISpriteData data
+				string name = "GuilIcon_196"
+				int x = 338
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[113]
+			UISpriteData data
+				string name = "GuilIcon_197"
+				int x = 462
+				int y = 112
+				int width = 23
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 0
+				int paddingTop = 3
+				int paddingBottom = 2
+			[114]
+			UISpriteData data
+				string name = "GuilIcon_198"
+				int x = 313
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[115]
+			UISpriteData data
+				string name = "GuilIcon_199"
+				int x = 363
+				int y = 108
+				int width = 22
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 0
+				int paddingBottom = 1
+			[116]
+			UISpriteData data
+				string name = "GuilIcon_200"
+				int x = 230
+				int y = 1
+				int width = 21
+				int height = 15
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 1
+				int paddingTop = 5
+				int paddingBottom = 4
+			[117]
+			UISpriteData data
+				string name = "GuilIcon_201"
+				int x = 313
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[118]
+			UISpriteData data
+				string name = "GuilIcon_202"
+				int x = 313
+				int y = 107
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[119]
+			UISpriteData data
+				string name = "GuilIcon_203"
+				int x = 313
+				int y = 82
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[120]
+			UISpriteData data
+				string name = "GuilIcon_204"
+				int x = 313
+				int y = 57
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[121]
+			UISpriteData data
+				string name = "GuilIcon_205"
+				int x = 313
+				int y = 32
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[122]
+			UISpriteData data
+				string name = "GuilIcon_206"
+				int x = 313
+				int y = 7
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[123]
+			UISpriteData data
+				string name = "GuilIcon_207"
+				int x = 338
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[124]
+			UISpriteData data
+				string name = "GuilIcon_208"
+				int x = 363
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[125]
+			UISpriteData data
+				string name = "GuilIcon_209"
+				int x = 388
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[126]
+			UISpriteData data
+				string name = "GuilIcon_210"
+				int x = 413
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[127]
+			UISpriteData data
+				string name = "GuilIcon_211"
+				int x = 438
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[128]
+			UISpriteData data
+				string name = "GuilIcon_212"
+				int x = 463
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[129]
+			UISpriteData data
+				string name = "GuilIcon_213"
+				int x = 488
+				int y = 157
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[130]
+			UISpriteData data
+				string name = "GuilIcon_214"
+				int x = 411
+				int y = 112
+				int width = 24
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 3
+				int paddingBottom = 2
+			[131]
+			UISpriteData data
+				string name = "GuilIcon_215"
+				int x = 338
+				int y = 107
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[132]
+			UISpriteData data
+				string name = "GuilIcon_216"
+				int x = 338
+				int y = 82
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[133]
+			UISpriteData data
+				string name = "GuilIcon_217"
+				int x = 363
+				int y = 1
+				int width = 18
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 6
+				int paddingBottom = 5
+			[134]
+			UISpriteData data
+				string name = "GuilIcon_218"
+				int x = 338
+				int y = 57
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[135]
+			UISpriteData data
+				string name = "GuilIcon_219"
+				int x = 463
+				int y = 133
+				int width = 24
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 1
+				int paddingBottom = 0
+			[136]
+			UISpriteData data
+				string name = "GuilIcon_220"
+				int x = 338
+				int y = 32
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[137]
+			UISpriteData data
+				string name = "GuilIcon_221"
+				int x = 386
+				int y = 110
+				int width = 24
+				int height = 21
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 2
+				int paddingBottom = 1
+			[138]
+			UISpriteData data
+				string name = "GuilIcon_222"
+				int x = 338
+				int y = 7
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[139]
+			UISpriteData data
+				string name = "GuilIcon_230"
+				int x = 486
+				int y = 113
+				int width = 22
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 3
+				int paddingBottom = 3
+			[140]
+			UISpriteData data
+				string name = "GuilIcon_231"
+				int x = 386
+				int y = 91
+				int width = 22
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 3
+				int paddingBottom = 3
+			[141]
+			UISpriteData data
+				string name = "GuilIcon_232"
+				int x = 386
+				int y = 72
+				int width = 22
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 3
+				int paddingBottom = 3
+			[142]
+			UISpriteData data
+				string name = "GuilIcon_233"
+				int x = 230
+				int y = 17
+				int width = 25
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[143]
+			UISpriteData data
+				string name = "GuilIcon_234"
+				int x = 388
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[144]
+			UISpriteData data
+				string name = "GuilIcon_235"
+				int x = 436
+				int y = 113
+				int width = 25
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 5
+				int paddingTop = 3
+				int paddingBottom = 3
+			[145]
+			UISpriteData data
+				string name = "GuilIcon_236"
+				int x = 413
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[146]
+			UISpriteData data
+				string name = "GuilIcon_237"
+				int x = 488
+				int y = 133
+				int width = 22
+				int height = 23
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 1
+			[147]
+			UISpriteData data
+				string name = "GuilIcon_238"
+				int x = 438
+				int y = 132
+				int width = 24
+				int height = 24
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[148]
+			UISpriteData data
+				string name = "map_Official-NPC"
+				int x = 230
+				int y = 229
+				int width = 32
+				int height = 27
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 3
+				int paddingBottom = 2
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0

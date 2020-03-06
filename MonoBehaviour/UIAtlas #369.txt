@@ -1,0 +1,3293 @@
+MonoBehaviour Base
+	PPtr<GameObject> m_GameObject
+		int m_FileID = 0
+		SInt64 m_PathID = 1463362502540324210
+	UInt8 m_Enabled = 1
+	PPtr<MonoScript> m_Script
+		int m_FileID = 0
+		SInt64 m_PathID = -277190597121967197
+	string m_Name = ""
+	PPtr<$Material> material
+		int m_FileID = 1
+		SInt64 m_PathID = -6581418476235772500
+	UISpriteData mSprites
+		Array Array
+		int size = 218
+			[0]
+			UISpriteData data
+				string name = "ashcurse"
+				int x = 0
+				int y = 230
+				int width = 26
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[1]
+			UISpriteData data
+				string name = "back_buff"
+				int x = 0
+				int y = 155
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[2]
+			UISpriteData data
+				string name = "fatigue"
+				int x = 0
+				int y = 134
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[3]
+			UISpriteData data
+				string name = "flamemark"
+				int x = 0
+				int y = 203
+				int width = 26
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[4]
+			UISpriteData data
+				string name = "Food_buff"
+				int x = 363
+				int y = 175
+				int width = 18
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[5]
+			UISpriteData data
+				string name = "GoodMood_buff"
+				int x = 0
+				int y = 92
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[6]
+			UISpriteData data
+				string name = "itembuff_12330"
+				int x = 468
+				int y = 173
+				int width = 12
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 4
+				int paddingRight = 4
+				int paddingTop = 0
+				int paddingBottom = 0
+			[7]
+			UISpriteData data
+				string name = "itembuff_12331"
+				int x = 481
+				int y = 180
+				int width = 17
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 2
+				int paddingTop = 3
+				int paddingBottom = 4
+			[8]
+			UISpriteData data
+				string name = "itembuff_12332"
+				int x = 401
+				int y = 173
+				int width = 16
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[9]
+			UISpriteData data
+				string name = "itembuff_12333"
+				int x = 453
+				int y = 174
+				int width = 14
+				int height = 19
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 3
+				int paddingTop = 0
+				int paddingBottom = 1
+			[10]
+			UISpriteData data
+				string name = "itembuff_12334"
+				int x = 418
+				int y = 176
+				int width = 18
+				int height = 17
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 2
+			[11]
+			UISpriteData data
+				string name = "itembuff_12335"
+				int x = 321
+				int y = 159
+				int width = 16
+				int height = 13
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 2
+				int paddingTop = 3
+				int paddingBottom = 4
+			[12]
+			UISpriteData data
+				string name = "itembuff_12354"
+				int x = 338
+				int y = 161
+				int width = 17
+				int height = 11
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 2
+				int paddingRight = 1
+				int paddingTop = 6
+				int paddingBottom = 3
+			[13]
+			UISpriteData data
+				string name = "itembuff_5039"
+				int x = 382
+				int y = 175
+				int width = 18
+				int height = 18
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 1
+				int paddingRight = 1
+				int paddingTop = 1
+				int paddingBottom = 1
+			[14]
+			UISpriteData data
+				string name = "itembuff_5042"
+				int x = 437
+				int y = 173
+				int width = 15
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 3
+				int paddingRight = 2
+				int paddingTop = 0
+				int paddingBottom = 0
+			[15]
+			UISpriteData data
+				string name = "itembuff_8005"
+				int x = 27
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[16]
+			UISpriteData data
+				string name = "skillbuff_10035001"
+				int x = 27
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[17]
+			UISpriteData data
+				string name = "skillbuff_101001"
+				int x = 27
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[18]
+			UISpriteData data
+				string name = "skillbuff_1023001"
+				int x = 27
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[19]
+			UISpriteData data
+				string name = "skillbuff_1024001"
+				int x = 27
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[20]
+			UISpriteData data
+				string name = "skillbuff_1025001"
+				int x = 27
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[21]
+			UISpriteData data
+				string name = "skillbuff_1100001"
+				int x = 27
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[22]
+			UISpriteData data
+				string name = "skillbuff_1104001"
+				int x = 27
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[23]
+			UISpriteData data
+				string name = "skillbuff_1107001"
+				int x = 48
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[24]
+			UISpriteData data
+				string name = "skillbuff_1109001"
+				int x = 48
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[25]
+			UISpriteData data
+				string name = "skillbuff_1112001"
+				int x = 48
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[26]
+			UISpriteData data
+				string name = "skillbuff_1125001"
+				int x = 48
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[27]
+			UISpriteData data
+				string name = "skillbuff_1126001"
+				int x = 48
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[28]
+			UISpriteData data
+				string name = "skillbuff_1127001"
+				int x = 48
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[29]
+			UISpriteData data
+				string name = "skillbuff_1129001"
+				int x = 48
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[30]
+			UISpriteData data
+				string name = "skillbuff_1141001"
+				int x = 48
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[31]
+			UISpriteData data
+				string name = "skillbuff_1142001"
+				int x = 48
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[32]
+			UISpriteData data
+				string name = "skillbuff_1144001"
+				int x = 48
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[33]
+			UISpriteData data
+				string name = "skillbuff_1147001"
+				int x = 48
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[34]
+			UISpriteData data
+				string name = "skillbuff_1149001"
+				int x = 48
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[35]
+			UISpriteData data
+				string name = "skillbuff_1162001"
+				int x = 69
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[36]
+			UISpriteData data
+				string name = "skillbuff_1168001"
+				int x = 69
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[37]
+			UISpriteData data
+				string name = "skillbuff_1170001"
+				int x = 69
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[38]
+			UISpriteData data
+				string name = "skillbuff_117001"
+				int x = 69
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[39]
+			UISpriteData data
+				string name = "skillbuff_1180001"
+				int x = 69
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[40]
+			UISpriteData data
+				string name = "skillbuff_1184001"
+				int x = 69
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[41]
+			UISpriteData data
+				string name = "skillbuff_1185001"
+				int x = 69
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[42]
+			UISpriteData data
+				string name = "skillbuff_1186001"
+				int x = 69
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[43]
+			UISpriteData data
+				string name = "skillbuff_1187001"
+				int x = 69
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[44]
+			UISpriteData data
+				string name = "skillbuff_1188001"
+				int x = 69
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[45]
+			UISpriteData data
+				string name = "skillbuff_119001"
+				int x = 69
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[46]
+			UISpriteData data
+				string name = "skillbuff_1191001"
+				int x = 69
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[47]
+			UISpriteData data
+				string name = "skillbuff_120001"
+				int x = 90
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[48]
+			UISpriteData data
+				string name = "skillbuff_1207001"
+				int x = 90
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[49]
+			UISpriteData data
+				string name = "skillbuff_1208001"
+				int x = 90
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[50]
+			UISpriteData data
+				string name = "skillbuff_1209001"
+				int x = 90
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[51]
+			UISpriteData data
+				string name = "skillbuff_1220001"
+				int x = 90
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[52]
+			UISpriteData data
+				string name = "skillbuff_122001"
+				int x = 90
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[53]
+			UISpriteData data
+				string name = "skillbuff_1221001"
+				int x = 90
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[54]
+			UISpriteData data
+				string name = "skillbuff_1223001"
+				int x = 90
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[55]
+			UISpriteData data
+				string name = "skillbuff_1225001"
+				int x = 90
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[56]
+			UISpriteData data
+				string name = "skillbuff_1227001"
+				int x = 90
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[57]
+			UISpriteData data
+				string name = "skillbuff_1229001"
+				int x = 90
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[58]
+			UISpriteData data
+				string name = "skillbuff_1231001"
+				int x = 90
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[59]
+			UISpriteData data
+				string name = "skillbuff_1240001"
+				int x = 111
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[60]
+			UISpriteData data
+				string name = "skillbuff_1243001"
+				int x = 111
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[61]
+			UISpriteData data
+				string name = "skillbuff_1249001"
+				int x = 111
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[62]
+			UISpriteData data
+				string name = "skillbuff_1262001"
+				int x = 111
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[63]
+			UISpriteData data
+				string name = "skillbuff_1263001"
+				int x = 111
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[64]
+			UISpriteData data
+				string name = "skillbuff_1264001"
+				int x = 111
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[65]
+			UISpriteData data
+				string name = "skillbuff_1267001"
+				int x = 111
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[66]
+			UISpriteData data
+				string name = "skillbuff_1270001"
+				int x = 111
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[67]
+			UISpriteData data
+				string name = "skillbuff_1280001"
+				int x = 111
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[68]
+			UISpriteData data
+				string name = "skillbuff_128001"
+				int x = 111
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[69]
+			UISpriteData data
+				string name = "skillbuff_1285001"
+				int x = 111
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[70]
+			UISpriteData data
+				string name = "skillbuff_1286001"
+				int x = 111
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[71]
+			UISpriteData data
+				string name = "skillbuff_1303001"
+				int x = 132
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[72]
+			UISpriteData data
+				string name = "skillbuff_1310001"
+				int x = 132
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[73]
+			UISpriteData data
+				string name = "skillbuff_131001"
+				int x = 132
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[74]
+			UISpriteData data
+				string name = "skillbuff_1321001"
+				int x = 132
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[75]
+			UISpriteData data
+				string name = "skillbuff_1332001"
+				int x = 132
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[76]
+			UISpriteData data
+				string name = "skillbuff_1365001"
+				int x = 132
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[77]
+			UISpriteData data
+				string name = "skillbuff_1366001"
+				int x = 132
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[78]
+			UISpriteData data
+				string name = "skillbuff_1368001"
+				int x = 132
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[79]
+			UISpriteData data
+				string name = "skillbuff_1369001"
+				int x = 132
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[80]
+			UISpriteData data
+				string name = "skillbuff_137001"
+				int x = 132
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[81]
+			UISpriteData data
+				string name = "skillbuff_1371001"
+				int x = 132
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[82]
+			UISpriteData data
+				string name = "skillbuff_1372001"
+				int x = 132
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[83]
+			UISpriteData data
+				string name = "skillbuff_1376001"
+				int x = 153
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[84]
+			UISpriteData data
+				string name = "skillbuff_1378001"
+				int x = 153
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[85]
+			UISpriteData data
+				string name = "skillbuff_1379001"
+				int x = 153
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[86]
+			UISpriteData data
+				string name = "skillbuff_1380001"
+				int x = 153
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[87]
+			UISpriteData data
+				string name = "skillbuff_138001"
+				int x = 153
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[88]
+			UISpriteData data
+				string name = "skillbuff_1381001"
+				int x = 153
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[89]
+			UISpriteData data
+				string name = "skillbuff_1382001"
+				int x = 153
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[90]
+			UISpriteData data
+				string name = "skillbuff_1390001"
+				int x = 153
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[91]
+			UISpriteData data
+				string name = "skillbuff_1392001"
+				int x = 153
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[92]
+			UISpriteData data
+				string name = "skillbuff_1393001"
+				int x = 153
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[93]
+			UISpriteData data
+				string name = "skillbuff_1394001"
+				int x = 153
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[94]
+			UISpriteData data
+				string name = "skillbuff_1396001"
+				int x = 153
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[95]
+			UISpriteData data
+				string name = "skillbuff_14001"
+				int x = 174
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[96]
+			UISpriteData data
+				string name = "skillbuff_1415001"
+				int x = 174
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[97]
+			UISpriteData data
+				string name = "skillbuff_1416001"
+				int x = 174
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[98]
+			UISpriteData data
+				string name = "skillbuff_1417001"
+				int x = 174
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[99]
+			UISpriteData data
+				string name = "skillbuff_1427001"
+				int x = 174
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[100]
+			UISpriteData data
+				string name = "skillbuff_1439001"
+				int x = 174
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[101]
+			UISpriteData data
+				string name = "skillbuff_146001"
+				int x = 174
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[102]
+			UISpriteData data
+				string name = "skillbuff_150001"
+				int x = 174
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[103]
+			UISpriteData data
+				string name = "skillbuff_152001"
+				int x = 174
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[104]
+			UISpriteData data
+				string name = "skillbuff_154001"
+				int x = 174
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[105]
+			UISpriteData data
+				string name = "skillbuff_155001"
+				int x = 174
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[106]
+			UISpriteData data
+				string name = "skillbuff_157001"
+				int x = 174
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[107]
+			UISpriteData data
+				string name = "skillbuff_158"
+				int x = 195
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[108]
+			UISpriteData data
+				string name = "skillbuff_158001"
+				int x = 195
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[109]
+			UISpriteData data
+				string name = "skillbuff_159"
+				int x = 195
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[110]
+			UISpriteData data
+				string name = "skillbuff_16001"
+				int x = 195
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[111]
+			UISpriteData data
+				string name = "skillbuff_1605001"
+				int x = 195
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[112]
+			UISpriteData data
+				string name = "skillbuff_1609001"
+				int x = 195
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[113]
+			UISpriteData data
+				string name = "skillbuff_1610001"
+				int x = 195
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[114]
+			UISpriteData data
+				string name = "skillbuff_1613001"
+				int x = 195
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[115]
+			UISpriteData data
+				string name = "skillbuff_1614001"
+				int x = 195
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[116]
+			UISpriteData data
+				string name = "skillbuff_1616001"
+				int x = 195
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[117]
+			UISpriteData data
+				string name = "skillbuff_161670"
+				int x = 195
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[118]
+			UISpriteData data
+				string name = "skillbuff_161680"
+				int x = 195
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[119]
+			UISpriteData data
+				string name = "skillbuff_161690"
+				int x = 216
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[120]
+			UISpriteData data
+				string name = "skillbuff_161700"
+				int x = 216
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[121]
+			UISpriteData data
+				string name = "skillbuff_1617001"
+				int x = 216
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[122]
+			UISpriteData data
+				string name = "skillbuff_161820"
+				int x = 216
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[123]
+			UISpriteData data
+				string name = "skillbuff_161830"
+				int x = 216
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[124]
+			UISpriteData data
+				string name = "skillbuff_161840"
+				int x = 216
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[125]
+			UISpriteData data
+				string name = "skillbuff_1619001"
+				int x = 216
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[126]
+			UISpriteData data
+				string name = "skillbuff_162000"
+				int x = 216
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[127]
+			UISpriteData data
+				string name = "skillbuff_162010"
+				int x = 216
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[128]
+			UISpriteData data
+				string name = "skillbuff_162020"
+				int x = 216
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[129]
+			UISpriteData data
+				string name = "skillbuff_162100"
+				int x = 216
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[130]
+			UISpriteData data
+				string name = "skillbuff_162110"
+				int x = 216
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[131]
+			UISpriteData data
+				string name = "skillbuff_162120"
+				int x = 237
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[132]
+			UISpriteData data
+				string name = "skillbuff_162130"
+				int x = 237
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[133]
+			UISpriteData data
+				string name = "skillbuff_162140"
+				int x = 237
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[134]
+			UISpriteData data
+				string name = "skillbuff_162150"
+				int x = 237
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[135]
+			UISpriteData data
+				string name = "skillbuff_1622001"
+				int x = 237
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[136]
+			UISpriteData data
+				string name = "skillbuff_1624001"
+				int x = 237
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[137]
+			UISpriteData data
+				string name = "skillbuff_1627001"
+				int x = 237
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[138]
+			UISpriteData data
+				string name = "skillbuff_163001"
+				int x = 237
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[139]
+			UISpriteData data
+				string name = "skillbuff_1631001"
+				int x = 237
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[140]
+			UISpriteData data
+				string name = "skillbuff_1634001"
+				int x = 237
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[141]
+			UISpriteData data
+				string name = "skillbuff_1639001"
+				int x = 237
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[142]
+			UISpriteData data
+				string name = "skillbuff_164002"
+				int x = 237
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[143]
+			UISpriteData data
+				string name = "skillbuff_164012"
+				int x = 258
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[144]
+			UISpriteData data
+				string name = "skillbuff_164050"
+				int x = 279
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[145]
+			UISpriteData data
+				string name = "skillbuff_1643001"
+				int x = 300
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[146]
+			UISpriteData data
+				string name = "skillbuff_165001"
+				int x = 321
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[147]
+			UISpriteData data
+				string name = "skillbuff_165060"
+				int x = 342
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[148]
+			UISpriteData data
+				string name = "skillbuff_165065"
+				int x = 363
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[149]
+			UISpriteData data
+				string name = "skillbuff_171001"
+				int x = 384
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[150]
+			UISpriteData data
+				string name = "skillbuff_175001"
+				int x = 405
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[151]
+			UISpriteData data
+				string name = "skillbuff_176001"
+				int x = 426
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[152]
+			UISpriteData data
+				string name = "skillbuff_177001"
+				int x = 447
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[153]
+			UISpriteData data
+				string name = "skillbuff_178001"
+				int x = 468
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[154]
+			UISpriteData data
+				string name = "skillbuff_180001"
+				int x = 489
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[155]
+			UISpriteData data
+				string name = "skillbuff_181001"
+				int x = 258
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[156]
+			UISpriteData data
+				string name = "skillbuff_182001"
+				int x = 258
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[157]
+			UISpriteData data
+				string name = "skillbuff_187001"
+				int x = 258
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[158]
+			UISpriteData data
+				string name = "skillbuff_188001"
+				int x = 258
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[159]
+			UISpriteData data
+				string name = "skillbuff_196001"
+				int x = 258
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[160]
+			UISpriteData data
+				string name = "skillbuff_197001"
+				int x = 258
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[161]
+			UISpriteData data
+				string name = "skillbuff_198001"
+				int x = 258
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[162]
+			UISpriteData data
+				string name = "skillbuff_199001"
+				int x = 258
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[163]
+			UISpriteData data
+				string name = "skillbuff_205001"
+				int x = 258
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[164]
+			UISpriteData data
+				string name = "skillbuff_208001"
+				int x = 258
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[165]
+			UISpriteData data
+				string name = "skillbuff_210001"
+				int x = 258
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[166]
+			UISpriteData data
+				string name = "skillbuff_211001"
+				int x = 279
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[167]
+			UISpriteData data
+				string name = "skillbuff_212001"
+				int x = 300
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[168]
+			UISpriteData data
+				string name = "skillbuff_215001"
+				int x = 321
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[169]
+			UISpriteData data
+				string name = "skillbuff_216001"
+				int x = 342
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[170]
+			UISpriteData data
+				string name = "skillbuff_217001"
+				int x = 363
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[171]
+			UISpriteData data
+				string name = "skillbuff_22001"
+				int x = 384
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[172]
+			UISpriteData data
+				string name = "skillbuff_226001"
+				int x = 405
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[173]
+			UISpriteData data
+				string name = "skillbuff_230001"
+				int x = 426
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[174]
+			UISpriteData data
+				string name = "skillbuff_23001"
+				int x = 447
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[175]
+			UISpriteData data
+				string name = "skillbuff_231001"
+				int x = 468
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[176]
+			UISpriteData data
+				string name = "skillbuff_25001"
+				int x = 489
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[177]
+			UISpriteData data
+				string name = "skillbuff_251001"
+				int x = 279
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[178]
+			UISpriteData data
+				string name = "skillbuff_27001"
+				int x = 279
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[179]
+			UISpriteData data
+				string name = "skillbuff_30001"
+				int x = 279
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[180]
+			UISpriteData data
+				string name = "skillbuff_301001"
+				int x = 279
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[181]
+			UISpriteData data
+				string name = "skillbuff_303001"
+				int x = 279
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[182]
+			UISpriteData data
+				string name = "skillbuff_306001"
+				int x = 279
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[183]
+			UISpriteData data
+				string name = "skillbuff_307001"
+				int x = 279
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[184]
+			UISpriteData data
+				string name = "skillbuff_31001"
+				int x = 279
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[185]
+			UISpriteData data
+				string name = "skillbuff_33001"
+				int x = 279
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[186]
+			UISpriteData data
+				string name = "skillbuff_350001"
+				int x = 279
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[187]
+			UISpriteData data
+				string name = "skillbuff_352001"
+				int x = 300
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[188]
+			UISpriteData data
+				string name = "skillbuff_356001"
+				int x = 321
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[189]
+			UISpriteData data
+				string name = "skillbuff_357001"
+				int x = 342
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[190]
+			UISpriteData data
+				string name = "skillbuff_358001"
+				int x = 363
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[191]
+			UISpriteData data
+				string name = "skillbuff_360001"
+				int x = 384
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[192]
+			UISpriteData data
+				string name = "skillbuff_361001"
+				int x = 405
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[193]
+			UISpriteData data
+				string name = "skillbuff_362001"
+				int x = 426
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[194]
+			UISpriteData data
+				string name = "skillbuff_363001"
+				int x = 447
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[195]
+			UISpriteData data
+				string name = "skillbuff_40019001"
+				int x = 468
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[196]
+			UISpriteData data
+				string name = "skillbuff_40020001"
+				int x = 489
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[197]
+			UISpriteData data
+				string name = "skillbuff_417001"
+				int x = 300
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[198]
+			UISpriteData data
+				string name = "skillbuff_422001"
+				int x = 300
+				int y = 152
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[199]
+			UISpriteData data
+				string name = "skillbuff_429001"
+				int x = 300
+				int y = 131
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[200]
+			UISpriteData data
+				string name = "skillbuff_44001"
+				int x = 300
+				int y = 110
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[201]
+			UISpriteData data
+				string name = "skillbuff_68001"
+				int x = 300
+				int y = 89
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[202]
+			UISpriteData data
+				string name = "skillbuff_80001"
+				int x = 300
+				int y = 68
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[203]
+			UISpriteData data
+				string name = "skillbuff_82001"
+				int x = 300
+				int y = 47
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[204]
+			UISpriteData data
+				string name = "skillbuff_89001"
+				int x = 300
+				int y = 26
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[205]
+			UISpriteData data
+				string name = "skillbuff_94001"
+				int x = 300
+				int y = 5
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[206]
+			UISpriteData data
+				string name = "skillbuff_commonbuff"
+				int x = 321
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[207]
+			UISpriteData data
+				string name = "skillbuff_earth"
+				int x = 342
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[208]
+			UISpriteData data
+				string name = "skillbuff_EquipDestruc"
+				int x = 0
+				int y = 113
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[209]
+			UISpriteData data
+				string name = "skillbuff_EquipUninstall"
+				int x = 0
+				int y = 71
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[210]
+			UISpriteData data
+				string name = "skillbuff_fire"
+				int x = 0
+				int y = 50
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[211]
+			UISpriteData data
+				string name = "skillbuff_Frenzy"
+				int x = 0
+				int y = 29
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[212]
+			UISpriteData data
+				string name = "skillbuff_Nightinfection"
+				int x = 0
+				int y = 8
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[213]
+			UISpriteData data
+				string name = "skillbuff_Nightseed"
+				int x = 27
+				int y = 236
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[214]
+			UISpriteData data
+				string name = "skillbuff_water"
+				int x = 27
+				int y = 215
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[215]
+			UISpriteData data
+				string name = "skillbuff_wind"
+				int x = 27
+				int y = 194
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[216]
+			UISpriteData data
+				string name = "swordspur"
+				int x = 0
+				int y = 176
+				int width = 26
+				int height = 26
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+			[217]
+			UISpriteData data
+				string name = "yaoshui_buff"
+				int x = 27
+				int y = 173
+				int width = 20
+				int height = 20
+				int borderLeft = 0
+				int borderRight = 0
+				int borderTop = 0
+				int borderBottom = 0
+				int paddingLeft = 0
+				int paddingRight = 0
+				int paddingTop = 0
+				int paddingBottom = 0
+	float mPixelSize = 1
+	PPtr<$UIAtlas> mReplacement
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	int mCoordinates = 0
+	Sprite sprites
+		Array Array
+		int size = 0
